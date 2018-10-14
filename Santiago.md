@@ -24,6 +24,9 @@ author: tpi
 * Métro Santa Lucia (4mn à pieds)
 
 ## À voir / à faire
+### [Casas Museo Fundación Pablo Neruda](https://fundacionneruda.org/en/museums-houses/la-chascona-museum-house/)
+* 7000 $Ch soit environ 9€
+* Ouvert du mardi au dimanche de 10h à 18h
 
 
 ## Départ le 11/11/2018 vers 11h00
