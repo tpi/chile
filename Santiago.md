@@ -25,6 +25,7 @@ author: tpi
 
 ## À voir / à faire
 ### [Casas Museo Fundación Pablo Neruda](https://fundacionneruda.org/en/museums-houses/la-chascona-museum-house/)
+* [Fernando Márquez de La Plata 0192, Providencia, Región Metropolitana, Chili](https://www.google.fr/maps/place/La+Chascona/@-33.4311171,-70.651927,14z/data=!4m5!3m4!1s0x9662c59017cb616d:0x4efb4711f2a9a116!8m2!3d-33.4311212!4d-70.6344175)
 * 7000 $Ch soit environ 9€
 * Ouvert du mardi au dimanche de 10h à 18h
 
