@@ -34,7 +34,14 @@ author: tpi
 * [Bandera 361 (esq. Compañía) Santiago, Chile](https://www.google.fr/maps/place/Museo+Chileno+de+Arte+Precolombino/@-33.4389259,-70.654294,17z/data=!3m1!4b1!4m5!3m4!1s0x9662c5a46c29c7e7:0x441c0411745f7ac3!8m2!3d-33.4389304!4d-70.6521053)
 * Métro Plaza de Armas
 * 6000 $Ch soit environ 8 €
-* Ouvert du mardi au dimanche de 10h à 18h 
+* Ouvert du mardi au dimanche de 10h à 18h
+
+### [Cerro San Cristobal](https://santiagoando.com/cerro-san-cristobal-2)
+* Plusieurs entrées, deux fois plus grand que Central Park à NY. 
+* Domine Santiago, 880m d'altitude, 320 m de dénivelé par rapport au centre historique
+* Funiculaire et téléphérique
+* 2015 - Exemple de [parcours possible](http://www.sethetlise.com/cerro-san-cristobal-la-colline-de-santiago-du-chili.html)
+* 2017 - Passage par Pedro de Valdivia, [le téléphérique fonctionne de nouveau](http://www.chilivoyages.com/cerro-san-cristobal-santiago-accessible-telecabine/)
 
 ## Départ le 11/11/2018 vers 11h00
 
