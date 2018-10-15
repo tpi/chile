@@ -43,6 +43,15 @@ author: tpi
 * 2015 - Exemple de [parcours possible](http://www.sethetlise.com/cerro-san-cristobal-la-colline-de-santiago-du-chili.html)
 * 2017 - Passage par Pedro de Valdivia, [le téléphérique fonctionne de nouveau](http://www.chilivoyages.com/cerro-san-cristobal-santiago-accessible-telecabine/)
 
+### Vignes autour de Santiago : [Concha y Toro](https://conchaytoro.com/en/)
+* [Calle Virginia-Subercaseaux, 210, Pirque](https://www.google.fr/maps/place/Vi%C3%B1a+Concha+y+Toro/@-33.6365376,-70.5780094,17z/data=!4m13!1m7!3m6!1s0x9662d7cd1713ac7b:0x891cbc70c18aca75!2sAv.+Virginia+Subercaseaux+210,+Pirque,+Regi%C3%B3n+Metropolitana,+Chili!3b1!8m2!3d-33.6365421!4d-70.5758207!3m4!1s0x9662d7cd2a943f45:0x679cb602007cd13!8m2!3d-33.6355319!4d-70.5741441)
+* Métro Ligne 4 (bleu) direction Plaza de Puente Alto, descendre à Las Mercedes. Sortie  "Concha y Toro Oriente". Prendre métrobus 80 direction Pirque. Compter 1h30 depuis le centre.
+* [Réservation obligatoire](https://reserva.cyt.conchaytoro.cl/cytWP/en/), préciser la langue espagnol ou anglais
+* 2 formules :
+  * Traditionnelle à 16000 $Ch (20 €)
+  * Accompagné par un sommelier avec dégustation de 4 vins accompagné de fromage 25000 $Ch (32€)
+* Ouvert tous les jours (sauf jours feriés) de 10h à 17h10
+
 ## Départ le 11/11/2018 vers 11h00
 
 ### [Terminal Alameda](https://www.google.com/maps/place/Terminal+Alameda+Santiago/@-33.4534034,-70.687123,15z/data=!4m5!3m4!1s0x0:0xeaaf27139e268df6!8m2!3d-33.4534037!4d-70.687123)
