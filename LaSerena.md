@@ -36,9 +36,8 @@ author: tpi
 * [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g303674-d2196562-Reviews-Bakulic-La_Serena_Coquimbo_Region.html)
 * Poisson, Fruit de Mer, Chilien
 
-### [Donde El Guaton]
+### [Donde El Guaton](https://www.tripadvisor.fr/Restaurant_Review-g303674-d3369609-Reviews-Donde_el_Guaton-La_Serena_Coquimbo_Region.html)
 * [Brasil 750, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Restaurant+Donde+El+Guat%C3%B3n/@-29.9006183,-71.2482897,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7bf4f8c28b:0x4e142e8c4f436bc4!8m2!3d-29.900623!4d-71.246101)
-* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g303674-d3369609-Reviews-Donde_el_Guaton-La_Serena_Coquimbo_Region.html)
 * Réservation obligatoire, paiement en liquide seulement
 * 17mn à pied de l'hôtel
 
