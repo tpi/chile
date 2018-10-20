@@ -18,6 +18,32 @@ author: tpi
 
 ## À voir / à faire
 
+## Manger et boire
+
+### [Restaurant La Concepción](http://www.restaurantlaconcepcion.cl/home.html)
+* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294306-d1068664-Reviews-Restaurant_La_Concepcion-Valparaiso_Valparaiso_Region.html)
+* [Papudo 541, Valparaíso, Región de Valparaíso, Chili](https://www.google.com/maps/place/Restaurant+La+Concepci%C3%B3n/@-33.044446,-71.6316848,17z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sCirilo+Armstrong+Hotel+Boutique+-+cirilo+armstrong+12+-+Cerro+Alegre,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili!3s0x9689e12fad835c8f:0x401be7ad97d7702b!4m2!1d-71.6294961!2d-33.0444641!5m1!4e9!3m4!1s0x9689e12ecb123ca3:0x9d8319c9be011f0!8m2!3d-33.04185!4d-71.6264337)
+* Recommandé par le Routard
+* À 8mn à pied de l'hôtel (33m de dénivellé)
+
+### [Espiritu Santu](http://www.hosteriaespiritusanto.cl/index.php?lang=fr)
+* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294306-d2403652-Reviews-Espiritu_Santo-Valparaiso_Valparaiso_Region.html)
+* [Hector Calvo, 392 - Cerro Bellavista, Valparaíso, Región de Valparaíso, Chili](https://www.google.com/maps/place/Esp%C3%ADritu+Santo/@-33.048881,-71.6245607,17z/data=!4m20!1m12!2m11!1sRestaurants!3m6!1sRestaurants!2sCirilo+Armstrong+Hotel+Boutique+-+cirilo+armstrong+12+-+Cerro+Alegre,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili!3s0x9689e12fad835c8f:0x401be7ad97d7702b!4m2!1d-71.6294961!2d-33.0444641!5m2!5m1!1s2018-10-07!3m6!1s0x9689e127014ca14b:0xb13e445526da2765!5m1!1s2018-10-07!8m2!3d-33.048881!4d-71.622372)
+* Recommandé par le Routard
+* Entre 19 et 25mn à pied de l'hôtel, 57m de dénivellé
+
+### [Café Plaza Moro](https://www.tripadvisor.fr/Restaurant_Review-g294306-d8841977-Reviews-Cafe_Plaza_Moro-Valparaiso_Valparaiso_Region.html)
+* [Ricardo de Ferrari 561, Valparaíso, Cerro Florida, Región de Valparaíso, Chili](https://www.google.com/maps/place/Caf%C3%A9+Plaza+Moro/@-33.0525296,-71.6241991,17z/data=!4m20!1m12!2m11!1sRestaurants!3m6!1sRestaurants!2sCirilo+Armstrong+Hotel+Boutique+-+cirilo+armstrong+12+-+Cerro+Alegre,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili!3s0x9689e12fad835c8f:0x401be7ad97d7702b!4m2!1d-71.6294961!2d-33.0444641!5m2!5m1!1s2018-10-07!3m6!1s0x9689e120c2a4ff85:0xa07a8994b5f43c1d!5m1!1s2018-10-07!8m2!3d-33.0525296!4d-71.6220104)
+* Environ 27mn à pied de l'hotel, 57m de dénivellé
+* À côté de la Sebastiana, Musée Pablo Neruda
+
+### [Casa Luisa](http://www.casaluisa.cl/)
+* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294306-d8372907-Reviews-Casa_Luisa_Bistro_Wines-Valparaiso_Valparaiso_Region.html)
+* [Almirante Montt 533, Valparaíso, Región de Valparaíso, Chili](https://www.google.com/maps/place/Casa+Luisa/@-33.044455,-71.6316848,17z/data=!4m20!1m12!2m11!1sRestaurants!3m6!1sRestaurants!2sCirilo+Armstrong+Hotel+Boutique+-+cirilo+armstrong+12+-+Cerro+Alegre,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili!3s0x9689e12fad835c8f:0x401be7ad97d7702b!4m2!1d-71.6294961!2d-33.0444641!5m2!5m1!1s2018-10-07!3m6!1s0x9689e12e55b540a7:0x1e3df6960d16d022!5m1!1s2018-10-07!8m2!3d-33.0438747!4d-71.62895)
+* Recommandé par Le Routard
+* À 2mn de l'hôtel !
+
+
 
 ## Départ le 14/11/2018 vers 8h00
 
