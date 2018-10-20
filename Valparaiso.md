@@ -31,11 +31,11 @@ author: tpi
 
 ### [Isla Negra](https://fundacionneruda.org/museos/casa-museo-isla-negra/)
 * À 80 km au sud de Valparaiso
-* 1h30 de route en Bus Pullman depuis de [terminal Rodoviario]((https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
+* 1h30 de route en Bus Pullman depuis de [terminal Rodoviario](https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
 * Retour toutes les 30mn environ devant kiosque Pullman
 * Entrée 7000 $Ch soit environ 9€
 
-### [Vina del Mar]
+### [Vina del Mar](https://www.google.com/maps/place/VI%C3%B1a+Del+Mar/@-33.0253605,-71.551714,15z/data=!4m13!1m7!3m6!1s0x9689de84ead41255:0x8e5fde76df3d413f!2zVmnDsWEgZGVsIE1hciwgVmFscGFyYcOtc28sIENoaWxp!3b1!8m2!3d-33.0153481!4d-71.5500276!3m4!1s0x9689de0a4ff077a1:0x7862be1a42f9681b!8m2!3d-33.0264017!4d-71.5524128)
 * Prendre Métro à Bellavista ou Francia par exemple
 * Métro toutes 10mn environ, s'arrêter à la station Miramar ou Vina del Mar
 * Acheter une carte rechargeable (1500 $Ch). Les tarifs varient selon l'heure et la distance
