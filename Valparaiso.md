@@ -36,7 +36,7 @@ author: tpi
 * Entrée 7000 $Ch soit environ 9€
 
 ### [Vina del Mar](https://www.google.com/maps/place/VI%C3%B1a+Del+Mar/@-33.0253605,-71.551714,15z/data=!4m13!1m7!3m6!1s0x9689de84ead41255:0x8e5fde76df3d413f!2zVmnDsWEgZGVsIE1hciwgVmFscGFyYcOtc28sIENoaWxp!3b1!8m2!3d-33.0153481!4d-71.5500276!3m4!1s0x9689de0a4ff077a1:0x7862be1a42f9681b!8m2!3d-33.0264017!4d-71.5524128)
-* Prendre [Métro](https://www.metro-valparaiso.cl/tarifas/) à Bellavista ou Francia par exemple
+* Prendre [Métro](https://www.metro-valparaiso.cl/tarifas/) à Puerto, Bellavista ou Francia par exemple direction Limache
 * Métro toutes 10mn environ, s'arrêter à la station Miramar ou Vina del Mar
 * Acheter une carte rechargeable (2000 $Ch). Les tarifs varient selon l'heure et la distance. A priori 576 $Ch aller
 * À voir Parc [Quinta Vergara](https://en.wikipedia.org/wiki/Quinta_Vergara) - Fermé le lundi
