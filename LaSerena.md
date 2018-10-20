@@ -26,7 +26,7 @@ author: tpi
 
 ### El Valle de Elqui 
 * Via [Ecoturismo](http://www.ecoturismolaserena.cl/es_ES/portfolio/tour-valle-del-elqui/)
-* À 5 MN à pied de l'hotel [Andrés Bello 937, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Sucursal/@-29.9078603,-71.2547337,17z/data=!4m5!3m4!1s0x9691ca6fbeeeaaef:0xe2b059b7fd5095e3!8m2!3d-29.9077675!4d-71.2535232)
+* À 5 mn à pied de l'hotel [Andrés Bello 937, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Sucursal/@-29.9078603,-71.2547337,17z/data=!4m5!3m4!1s0x9691ca6fbeeeaaef:0xe2b059b7fd5095e3!8m2!3d-29.9077675!4d-71.2535232)
 * À 15mn à pied de l'hôtel [Casa Matriz: Avenida Francisco de Aguirre #76](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Casa+Matriz/@-29.9055764,-71.2624091,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca725db65209:0x7aee0243e7d9a76a!8m2!3d-29.9055811!4d-71.2602204)
 
 ## Manger et boire
