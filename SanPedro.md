@@ -28,8 +28,8 @@ author: tpi
 
 ### Vol pour Puerto Montt
 
-* Décollage de Calama prévu à 15h04 (LA0341)
-* Arrivée à Santiago à 17h06
+* Décollage de Calama prévu à 14h23 (LA0341)
+* Arrivée à Santiago à 16h25
 * Décollage de Santiago à 19h43 (LA0267)
 * Arrivée à Puerto Montt à 21h22
 * [aéroport de El Tepual](https://www.google.fr/maps/place/Europcar/@-41.433509,-73.1009138,17z/data=!3m1!4b1!4m5!3m4!1s0x9618180d92b8a285:0xe832ce1a3e5d101e!8m2!3d-41.433513!4d-73.0987251)
