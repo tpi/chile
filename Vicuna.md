@@ -44,9 +44,8 @@ author: tpi
 
 * Décollage de La Serena prévu à 13h03 (ou 13h25 ?) (LA0311)
 * Arrivée à Santiago à 14h19
-* **Attention, seulement 32mn de correspondance**
-* Décollage de Santiago à 14h51 (LA0346)
-* Arrivée à Calama à 16h56
+* Décollage de Santiago à 17h05 (LA 156) (Vol LA0346 annulé)
+* Arrivée à Calama à 19h05 (environ)
 * [Aeropuerto El Loa](https://www.google.cl/maps/place/Aeropuerto+El+Loa/@-22.4988477,-68.9384922,13z/data=!4m8!1m2!2m1!1saeropuerto+cerca+de+Calama,+Chile!3m4!1s0x96ac081e3e078f91:0xee9faa9acc913a26!8m2!3d-22.4988465!4d-68.9078504?hl=es)
 
 ### Bus pour San Pedro de Acatama
