@@ -5,7 +5,7 @@ tags: Chili
 author: tpi
 
 
-## Arrivée le 18/11/2010 vers 19h30 local
+## Arrivée le 18/11/2010 vers 21h15 local
 
 
 ### [Hotel Dunas](http://hoteldunaschile.com/fr/)
