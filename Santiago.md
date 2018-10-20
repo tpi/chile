@@ -52,6 +52,22 @@ author: tpi
   * Accompagné par un sommelier avec dégustation de 4 vins accompagné de fromage 25000 $Ch (32€)
 * Ouvert tous les jours (sauf jours feriés) de 10h à 17h10
 
+## Manger et boire
+
+### [Chipe Libre - Républica Independiente del Pisco](https://www.tripadvisor.fr/Restaurant_Review-g294305-d7161213-Reviews-Chipe_Libre_Republica_Independiente_del_Pisco-Santiago_Santiago_Metropolitan_Regi.html)
+* [Page Facebook](https://www.facebook.com/chipelibrerepublicaindependientedelpisco)
+* [José Victorino Lastarria 282, Santiago, Región Metropolitana, Chili](https://www.google.com/maps/place/Chipe+Libre+-+R%C3%A9publica+Independiente+del+Pisco/@-33.4443264,-70.6552782,15z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sPdte+Juan+Antonio+R%C3%ADos+59,+Santiago,+Regi%C3%B3n+Metropolitana,+Chili!3s0x9662c5a011771d81:0xda66a22e6096f337!4m2!1d-70.6465234!2d-33.4443856!5m1!4e9!3m4!1s0x9662c59940a0ee13:0x77de1693723458d4!8m2!3d-33.4383272!4d-70.6412349)
+* Recommandé par le Routard
+
+### [Peumayen Ancestral Food](http://www.peumayenchile.cl/es/index.html)
+* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294305-d3843350-Reviews-Peumayen_Ancestral_Food-Santiago_Santiago_Metropolitan_Region.html)
+* [Providencia, Constitución 136, Santiago, Providencia, Región Metropolitana, Chili](https://www.google.cl/maps/place/Peumayen+Ancestral+Food/@-33.432641,-70.634816,17z/data=!4m5!3m4!1s0x9662c59aa16db1dd:0x1766370983bcca20!8m2!3d-33.432753!4d-70.634924)
+
+### [Bocanariz](http://bocanariz.cl/?lang=en)
+* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294305-d3192360-Reviews-Bocanariz-Santiago_Santiago_Metropolitan_Region.html)
+* [José Victorino Lastarria 276, Santiago, Región Metropolitana, Chili](https://www.google.cl/maps/place/Bocan%C3%A1riz/@-33.4443111,-70.6552165,15z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sNovaPark+Hotel+-+Pdte+Juan+Antonio+R%C3%ADos+59,+Santiago,+Regi%C3%B3n+Metropolitana,+Chili!3s0x9662c5a011a70695:0x9aae8f8391d10430!4m2!1d-70.6464617!2d-33.4443747!5m1!4e9!3m4!1s0x9662c59940a7c1e7:0x92f1a277401b023d!8m2!3d-33.4383293!4d-70.6412305)
+* Recommandé par le Routard
+
 ## Départ le 11/11/2018 vers 11h00
 
 ### [Terminal Alameda](https://www.google.com/maps/place/Terminal+Alameda+Santiago/@-33.4534034,-70.687123,15z/data=!4m5!3m4!1s0x0:0xeaaf27139e268df6!8m2!3d-33.4534037!4d-70.687123)
