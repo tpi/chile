@@ -29,6 +29,19 @@ author: tpi
 * [Ricardo de Ferrari 692, Valparaíso, Región de Valparaíso, Chili](https://www.google.com/maps/place/La+Sebastiana+Museo+de+Pablo+Neruda/@-33.0538667,-71.624801,17z/data=!3m1!4b1!4m5!3m4!1s0x9689e121aa0bcfe9:0xc2b8b47c098d7cd9!8m2!3d-33.0538712!4d-71.6226123)
 * Entrée 7000 $Ch soit environ 9€
 
+### [Isla Negra](https://fundacionneruda.org/museos/casa-museo-isla-negra/)
+* À 80 km au sud de Valparaiso
+* 1h30 de route en Bus Pullman depuis de [terminal Rodoviario]((https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
+* Retour toutes les 30mn environ devant kiosque Pullman
+* Entrée 7000 $Ch soit environ 9€
+
+### [Vina del Mar]
+* Prendre Métro à Bellavista ou Francia par exemple
+* Métro toutes 10mn environ, s'arrêter à la station Miramar ou Vina del Mar
+* Acheter une carte rechargeable (1500 $Ch). Les tarifs varient selon l'heure et la distance
+* À voir Parc [Quinta Vergara](https://en.wikipedia.org/wiki/Quinta_Vergara) - Fermé le lundi
+
+
 ## Manger et boire
 
 ### [Restaurant La Concepción](http://www.restaurantlaconcepcion.cl/home.html)
