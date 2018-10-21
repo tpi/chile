@@ -18,6 +18,17 @@ author: tpi
 
 ## À voir / à faire
 
+### [Valle de Elqui - Distillerie de Pisco](https://www.elkimagic.com/fr/interior-del-valle/)
+
+* Via agence [Elkimagic](https://www.elkimagic.com/fr/)
+  * [San Martín 472, Vicuña, Región de Coquimbo, Chili](https://www.google.com/maps/place/Turismo+Elki+Magic/@-30.0312872,-70.7154241,17z/data=!3m1!4b1!4m5!3m4!1s0x96901a2b9803fe1b:0x8558c45ed02664c7!8m2!3d-30.0312919!4d-70.7132354)
+  * À 2mn de l'hôtel
+  * Départ 9h30, retour à 14h00
+  
+### [Observatorio Del Pangue](http://odp-f.blogspot.com/2017/04/5.html)
+* [Oficina Observatorio del Pangue San Martin 233, Vicuña, Región de Coquimbo, Chili](https://www.google.com/maps/place/Observatorio+del+Pangue+(Entrada)/@-30.0338004,-70.7135139,15z/data=!4m5!3m4!1s0x0:0xbbd6746f4435b8cf!8m2!3d-30.0338004!4d-70.7135139)
+* Tarif : 26000 $Ch (~33 €) à payer **au plus tard à 13h30** le jour du départ le 16/11.
+
 
 ## Départ le 18/11/2018 vers 8h00
 
