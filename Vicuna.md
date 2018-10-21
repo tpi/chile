@@ -29,7 +29,24 @@ author: tpi
   * [San Martín 472, Vicuña, Región de Coquimbo, Chili](https://www.google.com/maps/place/Turismo+Elki+Magic/@-30.0312872,-70.7154241,17z/data=!3m1!4b1!4m5!3m4!1s0x96901a2b9803fe1b:0x8558c45ed02664c7!8m2!3d-30.0312919!4d-70.7132354)
   * À 2mn de l'hôtel
   * Départ 9h30, retour à 14h00
- 
+  
+## Manger et boire
+
+### [Solar Elqui Donde Martita](https://www.tripadvisor.fr/Restaurant_Review-g970257-d3928591-Reviews-Restaurant_Solar_Elqui_Donde_Martita-Vicuna_Coquimbo_Region.html)
+* [Vicuña, Région de Coquimbo, Chili](https://www.google.com/maps/place/Solar+Elqui+Donde+Martita/@-30.0371659,-70.7059471,15z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sTerral+Hotel+%26+SPA+-+San+Mart%C3%ADn+387,+Vicu%C3%B1a,+Regi%C3%B3n+de+Coquimbo,+Chili!3s0x96901a2bcee828a1:0x72c0f4a7a36fed94!4m2!1d-70.7133468!2d-30.0324051!5m1!4e9!3m4!1s0x96901baf93d2b0f9:0x14a14b4274f89e79!8m2!3d-30.0436092!4d-70.6823508)
+* 1h de marche de l'hôtel
+* Uniquement le midi (ferme à 17h)
+* Cuisine au four solaire
+
+### [Chivato Negro](https://www.tripadvisor.fr/Restaurant_Review-g970257-d11651302-Reviews-Chivato_Negro-Vicuna_Coquimbo_Region.html)
+* [Gabriela Mistral 542-558, Vicuña, Región de Coquimbo, Chili](https://www.google.com/maps/place/Chivato+negro/@-30.0336007,-70.7122092,17z/data=!3m1!4b1!4m5!3m4!1s0x96901a2c7d35a799:0xfb9543059c4794dd!8m2!3d-30.0336054!4d-70.7100205)
+* À 5 mn de l'hôtel
+* Cuisine locale et internationale
+
+### [Antawara Restobar de Pisco](https://www.tripadvisor.fr/Restaurant_Review-g970257-d8272731-Reviews-Antawara_Restobar_de_Pisco-Vicuna_Coquimbo_Region.html)
+* [Gabriela Mistral 107, Vicuña, Región de Coquimbo, Chili](https://www.google.com/maps/place/ANTAWARA/@-30.0331075,-70.7180366,17z/data=!3m1!4b1!4m5!3m4!1s0x96901a2a134745ef:0xdf904c012bc18653!8m2!3d-30.0331122!4d-70.7158479)
+* 5mn de l'hôtel
+
 ## Départ le 18/11/2018 vers 8h00
 
 ### [Terminal de bus de Vicuna](https://www.google.com/maps/place/Terminal+de+Buses+de+Vicu%C3%B1a/@-30.0353774,-70.7124757,15z/data=!4m5!3m4!1s0x0:0xf183e71792e3c487!8m2!3d-30.0353774!4d-70.7124757)
