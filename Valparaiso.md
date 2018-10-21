@@ -9,7 +9,7 @@ author: tpi
 
 ### [Terminal Rodoviario Valparaiso](https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
 
-* 20mn en bus de l'hotel, 13 mn en taxi
+* 20mn en bus de l'hotel, 13 mn en taxi (pas toujours de taxis à la gare routière, surtout la nuit)
 
 ### [Cirilo Armstrong Hotel Boutique](https://www.ciriloarmstrong.com/en-gb)
 
@@ -20,7 +20,11 @@ author: tpi
 
 ### **Attention !** Musées fermés le lundi
 
-### Balades sur les 44 cerros de Valparaiso
+### Balades sur les 44 cerros de Valparaiso dont les Cerros Concepcion, Alegre etr Bellavista
+
+### 15 funiculaires dont le plus ancien: Ascensor Concepcion
+
+### Bus O (ou bus 612)
 
 ### [Museo a Cielo Abierto](https://lefilrouge.media/chili-valparaiso-museo-a-cielo-abierto/)
 * [Wikipédia](https://fr.wikipedia.org/wiki/Mus%C3%A9e_%C3%A0_ciel_ouvert_de_Valpara%C3%ADso)
@@ -28,12 +32,15 @@ author: tpi
 ### [La Sebstiana Museo de Pablo Neruda](https://fundacionneruda.org/museos/casa-museo-la-sebastiana/)
 * [Ricardo de Ferrari 692, Valparaíso, Región de Valparaíso, Chili](https://www.google.com/maps/place/La+Sebastiana+Museo+de+Pablo+Neruda/@-33.0538667,-71.624801,17z/data=!3m1!4b1!4m5!3m4!1s0x9689e121aa0bcfe9:0xc2b8b47c098d7cd9!8m2!3d-33.0538712!4d-71.6226123)
 * Entrée 7000 $Ch soit environ 9€
+* Recommandé par le Lonely Planet
 
 ### [Isla Negra](https://fundacionneruda.org/museos/casa-museo-isla-negra/)
 * À 80 km au sud de Valparaiso
 * 1h30 de route en Bus Pullman depuis de [terminal Rodoviario](https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
 * Retour toutes les 30mn environ devant kiosque Pullman
 * Entrée 7000 $Ch soit environ 9€
+* Fermé le lundi
+* Commercialisation trop enthousiaste "à la Disney" d'après le Lonely Planet !
 
 ### [Vina del Mar](https://www.google.com/maps/place/VI%C3%B1a+Del+Mar/@-33.0253605,-71.551714,15z/data=!4m13!1m7!3m6!1s0x9689de84ead41255:0x8e5fde76df3d413f!2zVmnDsWEgZGVsIE1hciwgVmFscGFyYcOtc28sIENoaWxp!3b1!8m2!3d-33.0153481!4d-71.5500276!3m4!1s0x9689de0a4ff077a1:0x7862be1a42f9681b!8m2!3d-33.0264017!4d-71.5524128)
 * Prendre [Métro](https://www.metro-valparaiso.cl/tarifas/) à Puerto, Bellavista ou Francia par exemple direction Limache
@@ -71,6 +78,21 @@ author: tpi
 * À 2mn de l'hôtel !
 * Fermé le lundi
 
+### [Café Vinilo](https://www.facebook.com/vinilovalpo/?ref=hl)
+* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294306-d793263-Reviews-Cafe_Vinilo-Valparaiso_Valparaiso_Region.html)
+* Cerro Alegre
+* [Almirante Montt 448, Valparaiso 2371566, Chili](https://www.google.fr/maps/place/Almirante+Montt+448,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili/@-33.0435644,-71.6280823,17z/data=!4m13!1m7!3m6!1s0x9689e12efafbdfad:0x8219f36271fec182!2sAlmirante+Montt+448,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili!3b1!8m2!3d-33.043472!4d-71.628189!3m4!1s0x9689e12efafbdfad:0x8219f36271fec182!8m2!3d-33.043472!4d-71.628189)
+* Recommandé par le Lonely Planet
+* À 3mn à pied de l'hôtel
+
+### [Via Via Café](http://viavia.world/es/america/valparaiso?utm_source=tripadvisor&utm_medium=referral)
+* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294306-d1647178-Reviews-ViaVia_Cafe-Valparaiso_Valparaiso_Region.html)
+* [Almirante Montt 217, Valparaiso 2380008, Chili](https://www.google.fr/maps/place/Almirante+Montt+217,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili/@-33.0434679,-71.6271603,17z/data=!4m13!1m7!3m6!1s0x9689e12ee9c6e517:0x8cb00d6235b9bf73!2sAlmirante+Montt+217,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili!3b1!8m2!3d-33.0434482!4d-71.6272956!3m4!1s0x9689e12ee9c6e517:0x8cb00d6235b9bf73!8m2!3d-33.0434482!4d-71.6272956)
+* Tenu par un belge
+* Bières belges et vins chilien
+* Recommandé par le Lonely Planet pour un verre
+* À 5mn à pied de l'hôtel
+* Fermé le dimanche soir et le lundi
 
 
 ## Départ le 14/11/2018 vers 8h00
