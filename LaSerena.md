@@ -5,7 +5,7 @@ tags: Chili
 author: tpi
 
 
-## Arrivée le 14/11/2010 à 16h00 local
+## Arrivée le mercredi 14/11/2010 à 16h00 local
 
 ### [Bus terminal - La Serena](https://www.google.com/maps/place/Bus+Terminal+-+La+Serena/@-29.9109984,-71.2588082,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca6eed3102a3:0x4e7a5c06135323cb!8m2!3d-29.9110031!4d-71.2566195)
 
@@ -80,7 +80,7 @@ author: tpi
 * 53 mn à pied de l'hôtel
 
 
-## Départ le 16/11/2018 vers 10h00
+## Départ le vendredi 16/11/2018 vers 10h00
 
 ### [Bus terminal - La Serena](https://www.google.com/maps/place/Bus+Terminal+-+La+Serena/@-29.9109984,-71.2588082,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca6eed3102a3:0x4e7a5c06135323cb!8m2!3d-29.9110031!4d-71.2566195)
 
