@@ -5,7 +5,7 @@ tags: Chili
 author: tpi
 
 
-## Arrivée le 11/11/2010 à 14h00 local
+## Arrivée le dimanche 11/11/2010 à 14h00 local
 
 ### [Terminal Rodoviario Valparaiso](https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
 
@@ -95,7 +95,7 @@ author: tpi
 * Fermé le dimanche soir et le lundi
 
 
-## Départ le 14/11/2018 vers 8h00
+## Départ le mercredi 14/11/2018 vers 8h00
 
 ### [Terminal Rodoviario Valparaiso](https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
 
