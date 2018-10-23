@@ -41,10 +41,19 @@ author: tpi
 
 ### [Tour Isla Damas - Reserva Nacional Pingüino de Humboldt](http://www.ecoturismolaserena.cl/es_ES/portfolio/tour-islas-damas/)
 * A faire le jeudi 15 novembre
+* En autonome, bus à partir de La Serena   
+    * **Vérifier les conditions météo**
+    * Départ à 9h de l'avenue Francisco de Aguirre, face à la [Panaderia Los Griegos](https://www.google.com/maps/place/Panaderia+y+rostiseria+los+griegos/@-29.9056158,-71.2547024,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7004ab9db3:0xdd3a021b0515e98d!8m2!3d-29.9056205!4d-71.2525137), à 5mn à pied de l'hôtel
+    * Retour à 15h30, 2h de trajet, ~ 9000 $Ch A/R (11,50 €)
+    * Sinon, possibilité de partir en *combis* depuis l'embranchement avec [la Panaméricaine](https://www.google.com/maps/place/Ruta+5,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili/@-29.9025309,-71.2574624,17z/data=!4m5!3m4!1s0x915aae58996d1ff3:0x9bc1db8b120a2eea!8m2!3d-29.9023259!4d-71.2564403)
+    * Départ vers les îles, 2 points d'achats Punta Choros et Los Corrales 14000 $Ch (18€)
+    * Excursion de 3h avec une 1h d'escale à Isla Damas
+    * Droit d'entrée CONAF, 6000 $Ch (8 €)
 * Via Ecoturismo
     * À 5 mn à pied de l'hotel [Andrés Bello 937, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Sucursal/@-29.9078603,-71.2547337,17z/data=!4m5!3m4!1s0x9691ca6fbeeeaaef:0xe2b059b7fd5095e3!8m2!3d-29.9077675!4d-71.2535232)
     * À 15mn à pied de l'hôtel [Casa Matriz: Avenida Francisco de Aguirre #76](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Casa+Matriz/@-29.9055764,-71.2624091,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca725db65209:0x7aee0243e7d9a76a!8m2!3d-29.9055811!4d-71.2602204)
     * Réservation en ligne possible
+    * Prévoir 20000 - 25000 $Ch sans bateau ni entrée
 * Via [Elqui Valley Tour](http://goelqui.cl/tour-islas-damas/)
     * A 10mn à pied de l'hôtel [Cordovez 540 oficina 311, La Serena, Región de Coquimbo, Chili](https://www.google.fr/maps/place/Gregorio+Cordovez+540,+oficina+311,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili/@-29.9031837,-71.251605,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7afa483d63:0x4f77d759099c73b9!8m2!3d-29.9031837!4d-71.249411)
     * Départ à 7h et retour à 17h
