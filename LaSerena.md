@@ -39,7 +39,7 @@ author: tpi
     * Départ à 8h et retour à 18h
     * 28000 $
 
-### [Tour Isla Damas - Reserva Nacional Pingüino de Humboldt](http://www.ecoturismolaserena.cl/es_ES/portfolio/tour-islas-damas/)
+### [Tour Isla Damas - Reserva Nacional Pingüino de Humboldt](https://fr.wikipedia.org/wiki/R%C3%A9serve_nationale_Ping%C3%BCino_de_Humboldt)
 * A faire le jeudi 15 novembre
 * En autonome, bus à partir de La Serena   
     * **Vérifier les conditions météo**
@@ -49,7 +49,7 @@ author: tpi
     * Départ vers les îles, 2 points d'achats Punta Choros et Los Corrales 14000 $Ch (18€)
     * Excursion de 3h avec une 1h d'escale à Isla Damas
     * Droit d'entrée CONAF, 6000 $Ch (8 €)
-* Via Ecoturismo
+* Via [Ecoturismo](http://www.ecoturismolaserena.cl/es_ES/portfolio/tour-islas-damas/)
     * À 5 mn à pied de l'hotel [Andrés Bello 937, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Sucursal/@-29.9078603,-71.2547337,17z/data=!4m5!3m4!1s0x9691ca6fbeeeaaef:0xe2b059b7fd5095e3!8m2!3d-29.9077675!4d-71.2535232)
     * À 15mn à pied de l'hôtel [Casa Matriz: Avenida Francisco de Aguirre #76](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Casa+Matriz/@-29.9055764,-71.2624091,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca725db65209:0x7aee0243e7d9a76a!8m2!3d-29.9055811!4d-71.2602204)
     * Réservation en ligne possible
