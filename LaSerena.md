@@ -29,25 +29,28 @@ author: tpi
 ### Coquimbo
 
 ### [El Valle de Elqui](http://www.ecoturismolaserena.cl/es_ES/portfolio/tour-valle-del-elqui/)
+* Vallée de Elqui à faire de préférence depuis Vicuna
 * Via Ecoturismo
     * À 5 mn à pied de l'hotel [Andrés Bello 937, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Sucursal/@-29.9078603,-71.2547337,17z/data=!4m5!3m4!1s0x9691ca6fbeeeaaef:0xe2b059b7fd5095e3!8m2!3d-29.9077675!4d-71.2535232)
     * À 15mn à pied de l'hôtel [Casa Matriz: Avenida Francisco de Aguirre #76](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Casa+Matriz/@-29.9055764,-71.2624091,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca725db65209:0x7aee0243e7d9a76a!8m2!3d-29.9055811!4d-71.2602204)
     * Réservation en ligne possible
-* [Via Elqui Valley Tour](http://goelqui.cl/tour-valle-de-elqui/)
+* Via [Elqui Valley Tour](http://goelqui.cl/tour-valle-de-elqui/)
     * A 10mn à pied de l'hôtel [Cordovez 540 oficina 311, La Serena, Región de Coquimbo, Chili](https://www.google.fr/maps/place/Gregorio+Cordovez+540,+oficina+311,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili/@-29.9031837,-71.251605,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7afa483d63:0x4f77d759099c73b9!8m2!3d-29.9031837!4d-71.249411)
     * Départ à 8h et retour à 18h
-    * 28000 $Ch
+    * 28000 $
 
 ### [Tour Isla Damas - Reserva Nacional Pingüino de Humboldt](http://www.ecoturismolaserena.cl/es_ES/portfolio/tour-islas-damas/)
-* Attention: le débarquement sur l'ile Damas n'est pas tous les jours selon la saison
+* A faire le jeudi 15 novembre
 * Via Ecoturismo
     * À 5 mn à pied de l'hotel [Andrés Bello 937, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Sucursal/@-29.9078603,-71.2547337,17z/data=!4m5!3m4!1s0x9691ca6fbeeeaaef:0xe2b059b7fd5095e3!8m2!3d-29.9077675!4d-71.2535232)
     * À 15mn à pied de l'hôtel [Casa Matriz: Avenida Francisco de Aguirre #76](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Casa+Matriz/@-29.9055764,-71.2624091,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca725db65209:0x7aee0243e7d9a76a!8m2!3d-29.9055811!4d-71.2602204)
     * Réservation en ligne possible
-* [Via Elqui Valley Tour](http://goelqui.cl/tour-islas-damas/)
+* Via [Elqui Valley Tour](http://goelqui.cl/tour-islas-damas/)
     * A 10mn à pied de l'hôtel [Cordovez 540 oficina 311, La Serena, Región de Coquimbo, Chili](https://www.google.fr/maps/place/Gregorio+Cordovez+540,+oficina+311,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili/@-29.9031837,-71.251605,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7afa483d63:0x4f77d759099c73b9!8m2!3d-29.9031837!4d-71.249411)
     * Départ à 7h et retour à 17h
-    * 35000 $Ch bateau non compris
+    * 35000 $ pour l'agence
+    * 2500 $ pour la réserve
+    * 11000 $ pour le bateau
 
 
 ## Manger et boire
@@ -75,7 +78,7 @@ author: tpi
 
 ### [Kardamomo](https://www.tripadvisor.fr/Restaurant_Review-g303674-d2027875-Reviews-Kardamomo-La_Serena_Coquimbo_Region.html)
 * [Av del Mar, La Serena, Chili](https://www.google.fr/maps/place/Karda+Momo/@-29.9298404,-71.2800369,12z/data=!4m8!1m2!2m1!1sKardamomo+La+Serena,+Chili!3m4!1s0x9691ca25cbb2c347:0xed73249309bef503!8m2!3d-29.9298073!4d-71.2801002)
-* Recommandé par le Lonely Planet
+* Coup de coeur Lonely Planet
 * Front de mer
 * 53 mn à pied de l'hôtel
 
