@@ -45,6 +45,7 @@ author: tpi
     * **Vérifier les conditions météo**
     * Départ à 9h de l'avenue Francisco de Aguirre, face à la [Panaderia Los Griegos](https://www.google.com/maps/place/Panaderia+y+rostiseria+los+griegos/@-29.9056158,-71.2547024,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7004ab9db3:0xdd3a021b0515e98d!8m2!3d-29.9056205!4d-71.2525137), à 5mn à pied de l'hôtel
     * Retour à 15h30, 2h de trajet, ~ 9000 $Ch A/R (11,50 €)
+    * Réservation la veille au 9-97-17-01-22
     * Sinon, possibilité de partir en *combis* depuis l'embranchement avec [la Panaméricaine](https://www.google.com/maps/place/Ruta+5,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili/@-29.9025309,-71.2574624,17z/data=!4m5!3m4!1s0x915aae58996d1ff3:0x9bc1db8b120a2eea!8m2!3d-29.9023259!4d-71.2564403)
     * Départ vers les îles, 2 points d'achats Punta Choros et Los Corrales 14000 $Ch (18€)
     * Excursion de 3h avec une 1h d'escale à Isla Damas
