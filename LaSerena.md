@@ -53,7 +53,7 @@ author: tpi
     * À 5 mn à pied de l'hotel [Andrés Bello 937, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Sucursal/@-29.9078603,-71.2547337,17z/data=!4m5!3m4!1s0x9691ca6fbeeeaaef:0xe2b059b7fd5095e3!8m2!3d-29.9077675!4d-71.2535232)
     * À 15mn à pied de l'hôtel [Casa Matriz: Avenida Francisco de Aguirre #76](https://www.google.com/maps/place/Ecoturismo+La+Serena+-+Casa+Matriz/@-29.9055764,-71.2624091,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca725db65209:0x7aee0243e7d9a76a!8m2!3d-29.9055811!4d-71.2602204)
     * Réservation en ligne possible
-    * Prévoir 20000 - 25000 $Ch sans bateau ni entrée
+    * Prévoir 20000 - 25000 $Ch (entre 25 et 32 €) sans bateau ni entrée
 * Via [Elqui Valley Tour](http://goelqui.cl/tour-islas-damas/)
     * A 10mn à pied de l'hôtel [Cordovez 540 oficina 311, La Serena, Región de Coquimbo, Chili](https://www.google.fr/maps/place/Gregorio+Cordovez+540,+oficina+311,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili/@-29.9031837,-71.251605,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7afa483d63:0x4f77d759099c73b9!8m2!3d-29.9031837!4d-71.249411)
     * Départ à 7h et retour à 17h
