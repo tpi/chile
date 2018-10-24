@@ -5,8 +5,11 @@ tags: Chili
 author: tpi
 
 
-## Arrivée le 18/11/2010 vers 21h30 local
+## Arrivée le dimanche 18/11/2010 vers 21h30 local
 
+### [Terminal de buses, calle Tumisa](https://www.google.com/maps/place/Terminal+de+Buses/@-22.9137912,-68.1971491,17z/data=!3m1!4b1!4m5!3m4!1s0x96a974ff051501b3:0x872ecffad0ba7dfc!8m2!3d-22.9137962!4d-68.1949604)
+* Ignacio Carrera Pinto 647, San Pedro de Atacama, Región de Antofagasta, Chili
+* À 15mn de l'hôtel
 
 ### [Hotel Dunas](http://hoteldunaschile.com/fr/)
 
@@ -14,6 +17,38 @@ author: tpi
 * Teléfono : (+56) 55 285 1989
 
 ## À voir / à faire
+
+*Lire les recommandations du Routard*
+
+### Valle de la Muerte et Valle de la Luna (altitude max 2600m)
+* Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
+    * Guides francophones
+    * [Excursion en groupe le mercredi matin](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_lune) 
+    30000$Ch (39€) plus 5500$Ch (7€) pour l'entrée des parcs
+    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_lune), 215000$Ch (275 €) pour deux personnes plus 5500$Ch pour l'entrée des parcs
+
+### Salar de Acatama (altitude max 2400m)
+* Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
+    * Guides francophones
+    * [Excursion en groupe le mercredi après-midi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_salar)
+    30000$Ch (39€) plus 5500$Ch (7€) pour l'entrée des parcs
+    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_salar), 215000$Ch (275 €) pour deux personnes plus 5500$Ch pour l'entrée des parcs
+    * Inclus Lagunas Chaxa (Flamants Roses), Ojos, Tebinquiche… et dégustation de vins chiliens
+    
+### Salar de Talar (altitude max 4200m)
+* Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
+    * Guides francophones
+    * [Excursion en groupe le jeudi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_altiplanicas)
+     60000$Ch (78€) plus 3000$Ch pour l'entrée des parcs
+    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_altiplanicas), 350000$Ch (445 €) pour deux personnes plus 3000$Ch pour l'entrée des parcs
+    
+### Geysers del Tatio
+* Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
+    * Guides francophones
+    * [Excursion en groupe le vendredi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_geyser)
+    60000$Ch (78€) plus 10000$Ch (13€) pour l'entrée des parcs
+    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_geysers), 350000$Ch (445 €) pour deux personnes plus 3000$Ch pour l'entrée des parcs
+
 
 
 ## Départ le 24/11/2018 vers 12h00
