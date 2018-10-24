@@ -83,8 +83,8 @@ author: tpi
 * Cf [Checkmybus](https://www.checkmybus.fr/) ou [Busbud](https://www.busbud.com/fr)
 * Environ 7500 $Ch soit 10€ mais potentiellement moins, à voir.
 
-### Terminal de Buses Santiago (voisin du terminal Alameda)
-* Métro Universidad de Santiag
+### [Terminal de Buses Santiago](https://www.google.fr/maps/place/Transportes+Bus+Norte+Limitada/@-33.4537908,-70.6879577,18z/data=!4m8!1m2!2m1!1sTerminal+de+Buses+Norte,+santiago!3m4!1s0x9662c4f59a078517:0xc1936f1ca3572010!8m2!3d-33.4531106!4d-70.6893657) (voisin du terminal Alameda)
+* Métro Universidad de Santiago
 * Compagnie [Bus Norte](https://www.busnortechile.cl/portada.php)
 * Excellent rapport qualité/prix pour Valparaiso
 
