@@ -52,8 +52,8 @@ author: tpi
 * Métro Ligne 4 (bleu) direction Plaza de Puente Alto, descendre à Las Mercedes. Sortie  "Concha y Toro Oriente". Prendre métrobus 80 direction Pirque. Compter 1h30 depuis le centre.
 * [Réservation obligatoire](https://reserva.cyt.conchaytoro.cl/cytWP/en/), préciser la langue espagnol ou anglais
 * 2 formules :
-  * Traditionnelle à 16000 $Ch (20 €)
-  * Accompagné par un sommelier avec dégustation de 4 vins accompagné de fromage 25000 $Ch (32€)
+    * Traditionnelle à 16000 $Ch (20 €)
+    * Accompagné par un sommelier avec dégustation de 4 vins accompagné de fromage 25000 $Ch (32€)
 * Ouvert tous les jours (sauf jours feriés) de 10h à 17h10
 
 ## Manger et boire
