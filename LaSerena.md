@@ -9,7 +9,7 @@ author: tpi
 
 ### [Bus terminal - La Serena](https://www.google.com/maps/place/Bus+Terminal+-+La+Serena/@-29.9109984,-71.2588082,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca6eed3102a3:0x4e7a5c06135323cb!8m2!3d-29.9110031!4d-71.2566195)
 
-* 8mn à pieds de l'hôtel
+* 8mn à pied de l'hôtel
 
 ### [Primera Hacienda Hotel Boutique](http://primerahacienda.cl/)
 
@@ -24,7 +24,7 @@ author: tpi
 
 ### Avenida del Mar 
 * Le vieux phare
-* S'étend sur 10 km jusqu'au port de Coqimbo
+* S'étend sur 10 km jusqu'au port de Coquimbo
 
 ### Coquimbo
 
@@ -40,7 +40,7 @@ author: tpi
     * 28000 $
 
 ### [Tour Isla Damas - Reserva Nacional Pingüino de Humboldt](https://fr.wikipedia.org/wiki/R%C3%A9serve_nationale_Ping%C3%BCino_de_Humboldt)
-* A faire le jeudi 15 novembre
+* À faire le jeudi 15 novembre
 * En autonome, bus à partir de La Serena   
     * **Vérifier les conditions météo**
     * Départ à 9h de l'avenue Francisco de Aguirre, face à la [Panaderia Los Griegos](https://www.google.com/maps/place/Panaderia+y+rostiseria+los+griegos/@-29.9056158,-71.2547024,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7004ab9db3:0xdd3a021b0515e98d!8m2!3d-29.9056205!4d-71.2525137), à 5mn à pied de l'hôtel
@@ -56,7 +56,7 @@ author: tpi
     * Réservation en ligne possible
     * Prévoir 20000 - 25000 $Ch (entre 25 et 32 €) sans bateau ni entrée
 * Via [Elqui Valley Tour](http://goelqui.cl/tour-islas-damas/)
-    * A 10mn à pied de l'hôtel [Cordovez 540 oficina 311, La Serena, Región de Coquimbo, Chili](https://www.google.fr/maps/place/Gregorio+Cordovez+540,+oficina+311,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili/@-29.9031837,-71.251605,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7afa483d63:0x4f77d759099c73b9!8m2!3d-29.9031837!4d-71.249411)
+    * À 10mn à pied de l'hôtel [Cordovez 540 oficina 311, La Serena, Región de Coquimbo, Chili](https://www.google.fr/maps/place/Gregorio+Cordovez+540,+oficina+311,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili/@-29.9031837,-71.251605,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7afa483d63:0x4f77d759099c73b9!8m2!3d-29.9031837!4d-71.249411)
     * Départ à 7h et retour à 17h
     * 35000 $ pour l'agence
     * 2500 $ pour la réserve
