@@ -9,7 +9,7 @@ author: tpi
 
 ### [Terminal de bus de Vicuna](https://www.google.com/maps/place/Terminal+de+Buses+de+Vicu%C3%B1a/@-30.0353774,-70.7124757,15z/data=!4m5!3m4!1s0x0:0xf183e71792e3c487!8m2!3d-30.0353774!4d-70.7124757)
 
-* 5mn à pieds de l'hôtel
+* 5mn à pied de l'hôtel
 
 ### [Terral Hotel & Spa](http://www.terralhotel.cl/)
 
@@ -26,8 +26,8 @@ author: tpi
 
 ### [Planta Pisco Capel](https://www.piscocapel.cl/)
 * [Camino a Peralillo s/n, Vicuña, Valle del Elqui, Chile](https://www.google.com/maps/place/Capel+Pisco+Plant/@-30.0398187,-70.7003231,16.5z/data=!4m5!3m4!1s0x96901bcb8cc55c2d:0x33b3e666d7f5ae6b!8m2!3d-30.0394983!4d-70.6982144)
-* Usine, visite guidée en espagnol et anglais puis dégustation 10000$
-* 28mn à pieds de l'hôtel
+* Usine, visite guidée en espagnol et anglais puis dégustation 10000 $Ch
+* 28mn à pied de l'hôtel
 
 ### [Observatorio Del Pangue](http://odp-f.blogspot.com/2017/04/5.html)
 * [Oficina Observatorio del Pangue San Martin 233, Vicuña, Región de Coquimbo, Chili](https://www.google.com/maps/place/Observatorio+del+Pangue+(Entrada)/@-30.0338004,-70.7135139,15z/data=!4m5!3m4!1s0x0:0xbbd6746f4435b8cf!8m2!3d-30.0338004!4d-70.7135139)
@@ -40,10 +40,10 @@ author: tpi
   * [San Martín 472, Vicuña, Región de Coquimbo, Chili](https://www.google.com/maps/place/Turismo+Elki+Magic/@-30.0312872,-70.7154241,17z/data=!3m1!4b1!4m5!3m4!1s0x96901a2b9803fe1b:0x8558c45ed02664c7!8m2!3d-30.0312919!4d-70.7132354)
   * À 2mn de l'hôtel
   * Couple franco-chilien
-  * A faire le samedi 17 novembre
+  * À faire le samedi 17 novembre
   * Départ 9h30, retour à 14h00
   * Excursion en minibus dans les sites de la vallée
-  * Location de vélos 7000$ la journée, 2 itinéraires
+  * Location de vélos 7000$Ch la journée, 2 itinéraires
   
 ## Manger et boire
 
@@ -67,7 +67,7 @@ author: tpi
 
 ### Taxi de Vicuna vers l'aéroport
 * L'hôtel propose un service de navette vers l'aéroport.
-* Elki Magic propose aussu un service de navette vers l'aéroport
+* Elki Magic propose aussi un service de navette vers l'aéroport
 
 ### [Terminal de bus de Vicuna](https://www.google.com/maps/place/Terminal+de+Buses+de+Vicu%C3%B1a/@-30.0353774,-70.7124757,15z/data=!4m5!3m4!1s0x0:0xf183e71792e3c487!8m2!3d-30.0353774!4d-70.7124757)
 
