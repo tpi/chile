@@ -30,11 +30,10 @@ author: tpi
 ### Salar de Acatama (altitude max 2400m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
-    * Lagunas Chaxa, Ojos, Tebinquiche et dégustation de vins chiliens au coucher du soleil
+    * Lagunas Chaxa (Flamants Roses), Ojos, Tebinquiche et dégustation de vins chiliens au coucher du soleil
     * [Excursion en groupe le mercredi après-midi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_salar)
-    30000 $Ch (39€) plus 5500 $Ch (7€) pour l'entrée des parcs
-    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_salar), 215000 $Ch (275 €) pour deux personnes plus 5500 $Ch pour l'entrée des parcs
-    * Inclus Lagunas Chaxa (Flamants Roses), Ojos, Tebinquiche… et dégustation de vins chiliens
+    30000 $Ch (39€) plus 4500 $Ch (7€) pour l'entrée des parcs
+    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_salar), 215000 $Ch (275 €) pour deux personnes plus 4500 $Ch pour l'entrée des parcs
     
 ### Salar de Talar (altitude max 4200m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
@@ -50,7 +49,7 @@ author: tpi
     * Les geysers del Tatio, le village de Machuca et la vallée des cactus géants.
     * [Excursion en groupe le vendredi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_geyser)
     60000$Ch (78€) plus 10000 $Ch (13€) pour l'entrée des parcs
-    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_geysers), 350000 $Ch (445 €) pour deux personnes plus 3000 $Ch pour l'entrée des parcs
+    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_geysers), 350000 $Ch (445 €) pour deux personnes plus 10000 $Ch pour l'entrée des parcs
  
 ### Salar de Tara (altitude max 4800m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
