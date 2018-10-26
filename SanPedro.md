@@ -63,7 +63,7 @@ author: tpi
 * [Santiago Atias Excursiones](http://ranchochago.com/fr/) - Guide francophone
 * [Maxim Experience](http://www.maximexperience.cl/en-US/#body) - Quelques guides francophones
 * [Cosmo Andino Expediciones](http://cosmoandino.cl/index.php/excursions-explorations/) 
-* [Voyage Atacama](http://www.voyage-atacama.com/) - Belge - Pas de bureau - 
+* [Voyage Atacama](http://www.voyage-atacama.com/) - Belge - Pas de bureau - Formulaire de contact - Joignable via What's App
 * [Aventurarte Overland](https://www.facebook.com/Aventurarte-Overland-800819516639022/) - Belge - Pas de bureau
 
 ## Départ le 24/11/2018 vers 12h00
