@@ -30,6 +30,7 @@ author: tpi
 ### Salar de Acatama (altitude max 2400m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
+    * Lagunas Chaxa, Ojos, Tebinquiche et dégustation de vins chiliens au coucher du soleil
     * [Excursion en groupe le mercredi après-midi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_salar)
     30000 $Ch (39€) plus 5500 $Ch (7€) pour l'entrée des parcs
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_salar), 215000 $Ch (275 €) pour deux personnes plus 5500 $Ch pour l'entrée des parcs
@@ -38,6 +39,7 @@ author: tpi
 ### Salar de Talar (altitude max 4200m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
+    * Lagunas altiplanicas : Miscanti, Miñiques, Tuyactu et Pierres rouges
     * [Excursion en groupe le jeudi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_altiplanicas)
      60000 $Ch (78€) plus 3000 $Ch pour l'entrée des parcs
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_altiplanicas), 350000 $Ch (445 €) pour deux personnes plus 3000 $Ch pour l'entrée des parcs
@@ -45,6 +47,7 @@ author: tpi
 ### Geysers del Tatio (altitude max 4320m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
+    * Les geysers del Tatio, le village de Machuca et la vallée des cactus géants.
     * [Excursion en groupe le vendredi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_geyser)
     60000$Ch (78€) plus 10000 $Ch (13€) pour l'entrée des parcs
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_geysers), 350000 $Ch (445 €) pour deux personnes plus 3000 $Ch pour l'entrée des parcs
@@ -52,6 +55,7 @@ author: tpi
 ### Salar de Tara (altitude max 4800m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
+    * Quipiaco, la lagune de Cristal, la lagune Chita, les étranges formations rocheuses del Monjes de La Pacana, les colossales "cathédrales" de Tara
     * [Excursion en groupe le samedi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_tara)
     60000$Ch (78€)
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_tara), 350000 $Ch (445 €) pour deux personnes
