@@ -59,6 +59,13 @@ author: tpi
     60000$Ch (78€)
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_tara), 350000 $Ch (445 €) pour deux personnes
 
+### Agences recommandées par le Routard
+* [Santiago Atias Excursiones](http://ranchochago.com/fr/) - Guide francophone
+* [Maxim Experience](http://www.maximexperience.cl/en-US/#body) - Quelques guides francophones
+* [Cosmo Andino Expediciones](http://cosmoandino.cl/index.php/excursions-explorations/) 
+* [Voyage Atacama](http://www.voyage-atacama.com/) - Belge - Pas de bureau - 
+* [Aventurarte Overland](https://www.facebook.com/Aventurarte-Overland-800819516639022/) - Belge - Pas de bureau
+
 ## Départ le 24/11/2018 vers 12h00
 
 ### Bus pour Calama
