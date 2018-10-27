@@ -66,6 +66,46 @@ author: tpi
 * [Voyage Atacama](http://www.voyage-atacama.com/) - Belge - Pas de bureau - Formulaire de contact - Joignable via What's App
 * [Aventurarte Overland](https://www.facebook.com/Aventurarte-Overland-800819516639022/) - Belge - Pas de bureau
 
+
+## Manger et boire
+
+### [Sol Inti](https://www.tripadvisor.fr/Restaurant_Review-g303681-d2222080-Reviews-Sol_Inti_Restaurant-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [130, Tocopilla, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Sol+Inti/@-22.9118952,-68.2036328,17z/data=!4m8!1m2!2m1!1srestaurants!3m4!1s0x96a97457bd312af9:0x46f72d01c1704240!8m2!3d-22.9112827!4d-68.2010661)
+* Cuisine Latino et Chilienne
+* À 4mn à pied de l'hôtel
+* Recommandé par Le Routard 
+* Réservation recommandée (inutile de réserver hors saison ?)
+
+### [Adobe](https://www.tripadvisor.fr/Restaurant_Review-g303681-d1027371-Reviews-Adobe-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [Caracoles 169, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Adobe/@-22.9116015,-68.2012196,17z/data=!4m8!1m2!2m1!1srestaurants!3m4!1s0x96a9745840accd09:0x675f262a9fc9fb7e!8m2!3d-22.9117213!4d-68.2012196)
+* Cuisine Latino
+* À 4mn de l'hôtel
+
+### [La Estaka](https://www.tripadvisor.fr/Restaurant_Review-g303681-d1231983-Reviews-La_Estaka-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [Tocopilla 418, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/La+Estaka/@-22.911989,-68.2015641,17z/data=!4m15!1m9!2m8!1srestaurants!3m6!1srestaurants!2sSan+Pedro+de+Atacama,+R%C3%A9gion+d'Antofagasta,+Chili!3s0x96a84c7aa92abf3f:0x7af4614cacf997d1!4m2!1d-68.1997156!2d-22.9087073!3m4!1s0x96a97457c0e425bd:0x11961d5b6d6bf4c8!8m2!3d-22.9116357!4d-68.2014288)
+* Resto relativement chic mais apprécié avec parfois des musiciens
+* Recommandé par Le Routard avec des bémols sur le prix (menus intessants)
+* À 4mn de l'hôtel
+
+### [Ckunna](http://www.ckunna.cl/)
+* [Tocopilla 359, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Ckunna/@-22.9119791,-68.2015641,17z/data=!4m15!1m9!2m8!1srestaurants!3m6!1srestaurants!2sSan+Pedro+de+Atacama,+R%C3%A9gion+d'Antofagasta,+Chili!3s0x96a84c7aa92abf3f:0x7af4614cacf997d1!4m2!1d-68.1997156!2d-22.9087073!3m4!1s0x96a974570a560639:0x7e94110489e2106c!8m2!3d-22.9099989!4d-68.2010822)
+* [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g303681-d2690692-Reviews-Ckunna-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* Cuisine péruvienne, un peu cher (mais moins que La Esteka), à l'air vraiment sympa
+* À 2mn de l'hôtel
+* Recommandé par le Routard
+
+### [La Picada del Indio](https://www.tripadvisor.fr/Restaurant_Review-g303681-d7364459-Reviews-La_Pica_Del_Indio-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [Tocopilla 418, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/La+Picada+Del+Indio/@-22.9076583,-68.2020421,16z/data=!4m8!1m2!2m1!1sRestaurants!3m4!1s0x96a97457bd5b4b85:0x27092be076626eb8!8m2!3d-22.9109412!4d-68.2012253)
+* Bon rapport qualité-prix semble-t-il
+* Il faut être patient avant d'avoir une table
+* À 3mn de l'hôtel
+
+### [Las Delicias de Carmen](https://www.tripadvisor.fr/Restaurant_Review-g303681-d2169823-Reviews-Las_Delicias_de_Carmen-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [Calama 370, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Las+Delicias+de+Carmen/@-22.910253,-68.2042975,17z/data=!3m1!4b1!4m5!3m4!1s0x96a97457908819ed:0x33c1372522adf2f6!8m2!3d-22.910258!4d-68.2021088)
+* Recommandé par le Routard, fréquenté par les locaux, pas cher
+* À 3mn de l'hôtel
+
+
 ## Départ le 24/11/2018 vers 12h00
 
 ### Bus pour Calama
