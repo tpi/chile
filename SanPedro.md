@@ -105,6 +105,10 @@ author: tpi
 * Recommandé par le Routard, fréquenté par les locaux, pas cher
 * À 3mn de l'hôtel
 
+### [Mal de Puna](https://www.tripadvisor.fr/Restaurant_Review-g303681-d11805050-Reviews-Mal_de_Puna-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [Domingo Atienza 2357, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Mal+de+Puna/@-22.9097256,-68.2052292,17z/data=!3m1!4b1!4m5!3m4!1s0x96a97459d760084d:0x38dc63155ba06196!8m2!3d-22.9097306!4d-68.2030405)
+* [Page Facebook](https://www.facebook.com/maldepuna/) - Voir vidéo...il y a de l'ambiance !;-)
+* À 4mn de l'hôtel
 
 ## Départ le 24/11/2018 vers 12h00
 
