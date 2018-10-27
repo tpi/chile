@@ -110,11 +110,11 @@ author: tpi
 * [Page Facebook](https://www.facebook.com/maldepuna/) - Voir vidéo...il y a de l'ambiance !;-)
 * À 4mn de l'hôtel
 
-## Départ le 24/11/2018 vers 12h00
+## Départ le samedi 24/11/2018 vers 12h00
 
 ### Bus pour Calama
 
-* 1h15 de bus à partir de l'hotel jusqu'à l'aéroport
+* 1h15 de bus à partir de l'hôtel jusqu'à l'aéroport
 * S'adresser à [Transfer Licancabur](http://translicancabur.cl)
 * Possibilité de [réserver](http://www.translicancabur.cl/contact.html)
 * Compter 12000 $Ch soit environ 15€ l'aller. Paiement en cash seulement.
