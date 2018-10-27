@@ -5,7 +5,7 @@ tags: Chili
 author: tpi
 
 
-## Arrivée le samedi 24/11/2010 à 21h22 à l'aéroport et vers 22h30 à l'hotel
+## Arrivée le samedi 24/11/2010 à 21h22 à l'aéroport et vers 22h30 à l'hôtel
 ### Solution transfert [Andrès Tur](http://www.andrestour.com/transporte-al-aeropuerto/)
 * Agence dans l'aéroport
 * Compter 10000 $Ch par personne jusqu'à l'hôtel à Puerto Varas
