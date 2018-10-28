@@ -39,7 +39,7 @@ author: tpi
 
 ### Kayak sur lac ou mer
 * Agence [Ko Kayak](http://kokayak.cl/en/)
-* Bureau quasi en face de l'hôtel: San Pedro 311, Puerto Varas, Chile
+* Bureau quasi en face de l'hôtel: [San Pedro 311, Puerto Varas, Chile](https://www.google.fr/maps/place/Ko%C2%B4KayaK+-+Rafting,+Kayak+y+Actividades+Outdoor+Puerto+Varas/@-41.3167066,-72.9859334,17z/data=!3m1!4b1!4m5!3m4!1s0x961826d7b09a1051:0x3d48c98242d0dd9d!8m2!3d-41.3167106!4d-72.9837447)
 * Demi-journée sur le lac La Poza 35000 $ 8h30-14h30 ou 14h30-18h30 : La Poza se situe entre Puerto Varas et Ensenada, c'est un petit lac au bord du lac principal Llanquihue. Un endroit parfait pour se détendre un après-midi, pagayer avec votre famille (pour ce voyage, nous acceptons les jeunes enfants) et aussi pour observer les oiseaux lorsque nous organisons notre excursion matinale. Les conditions sont très protégées et il y a une sensation unique de pagayer au milieu de la forêt tropicale dense.
 * Journée kayak de mer sur le fjord Relonkavi 70000 $ 8h30-19h30 : L'excursion en kayak de mer commence dans les eaux calmes à l'embouchure de la rivière Petrohue. La vallée s'ouvre sur le chemin menant au premier fjord du sud du Chili. Reloncaví, un endroit où les eaux douces rencontrent les eaux salées. Il y a 4 à 5 heures de canotage, un déjeuner à la carte et une collation sur une plage du fjord, avec le temps de marcher et d'admirer le paysage incroyable.
 
@@ -50,9 +50,14 @@ author: tpi
 * Volcan Osorno 16000 $
 
 ### Agence Secret Patagonia
-* Bureau quasi en face de l'hôtel: San Pedro 311, Puerto Varas, Chile
+* ** Définitivement fermé selon Google !**
+* Bureau quasi en face de l'hôtel: [San Pedro 311, Puerto Varas, Chile](https://www.google.fr/maps/place/Secret+Patagonia/@-41.317008,-72.9862117,17z/data=!3m1!4b1!4m5!3m4!1s0x961826d7a92dbc57:0x17b58c27c0376c8c!8m2!3d-41.317012!4d-72.984023)
 * Bike & Beer: 30 km VTT le long du lac + dégustation bière artisanale à la brasserie Chester Beer
 
+### [Agence / hôtel Pachamagua](http://www.pachamagua.com/index.html)
+* [Del Rosario 1111, Puerto Varas, Región de los Lagos, Chili](https://www.google.fr/maps/place/Pachamagua+Hostel/@-41.321608,-72.9835423,17z/data=!3m1!4b1!4m7!3m6!1s0x961826da78f0641d:0xd527f3ef47c78137!5m1!1s2018-10-29!8m2!3d-41.321612!4d-72.9813536)
+* Tenue par un français
+* Activités de kamikazes (Rafting, Kayak etc...)
 
 ## Manger et boire
 
