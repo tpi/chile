@@ -50,7 +50,7 @@ author: tpi
 * Volcan Osorno 16000 $
 
 ### Agence Secret Patagonia
-* ** Définitivement fermé selon Google !**
+* **Définitivement fermé selon Google !**
 * Bureau quasi en face de l'hôtel: [San Pedro 311, Puerto Varas, Chile](https://www.google.fr/maps/place/Secret+Patagonia/@-41.317008,-72.9862117,17z/data=!3m1!4b1!4m5!3m4!1s0x961826d7a92dbc57:0x17b58c27c0376c8c!8m2!3d-41.317012!4d-72.984023)
 * Bike & Beer: 30 km VTT le long du lac + dégustation bière artisanale à la brasserie Chester Beer
 
