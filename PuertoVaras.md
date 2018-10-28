@@ -102,11 +102,13 @@ author: tpi
 
 ### [Las Buenas Brasas](https://es-la.facebook.com/pages/Las-Buenas-Brasas/203532413000554)
 * [San Pedro 543, Puerto Varas, Región de los Lagos, Chili](https://www.google.fr/maps/place/Restaurante+Las+Buenas+Brasas/@-41.3169999,-72.9862117,17z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sSecret+Patagonia+-+San+Pedro+311,+Puerto+Varas,+Regi%C3%B3n+de+los+Lagos,+Chili!3s0x961826d7a92dbc57:0x17b58c27c0376c8c!4m2!1d-72.984023!2d-41.317012!5m1!4e9!3m4!1s0x961826d71ddb1941:0xb7b4429a29092f18!8m2!3d-41.318495!4d-72.984315)
+* Ouvert tous les jours
 * À 4mn à pied de l'hôtel
 * Fruits de mer
 
 ### [Costumbrista](https://www.tripadvisor.fr/Restaurant_Review-g294299-d8834144-Reviews-Costumbrista-Puerto_Varas_Los_Lagos_Region.html)
 * [Del Salvador 547, Puerto Varas, Región de los Lagos, Chili](https://www.google.fr/maps/place/Costumbrista/@-41.3169837,-72.9862117,17z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sSecret+Patagonia+-+San+Pedro+311,+Puerto+Varas,+Regi%C3%B3n+de+los+Lagos,+Chili!3s0x961826d7a92dbc57:0x17b58c27c0376c8c!4m2!1d-72.984023!2d-41.317012!5m1!4e9!3m4!1s0x961826d4112bf89f:0x9f164005b8cf4d39!8m2!3d-41.3177728!4d-72.9863097)
+* Fermé le dimanche
 * À 5mn à pied de l'hôtel
 * Très bonnes critiques sur Tripadvisor
 
