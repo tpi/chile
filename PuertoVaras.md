@@ -84,6 +84,7 @@ author: tpi
 ### [Caffe El Barista](https://www.tripadvisor.fr/Restaurant_Review-g294299-d2140321-Reviews-Caffe_El_Barista-Puerto_Varas_Los_Lagos_Region.html)
 * [Walker Martinez 211, Puerto Varas](https://www.google.fr/maps/place/El+Barista+Caff%C3%A9/@-41.3168658,-72.9832319,17z/data=!4m5!3m4!1s0x961826d7a34f1c95:0x266d02c00906edc4!8m2!3d-41.3168658!4d-72.9832319)
 * Le meilleuir café selon le Lonely Planet - menus sains et bons sandwichs - bar le soir
+* Recommandé par le Routard également
 * Ouvert tous les jours
 * 1mn à pied de l'hôtel
 
@@ -98,6 +99,17 @@ author: tpi
 * [Del Salvador 441, Puerto Varas, Chili](https://www.google.fr/maps/place/Cafe+Dannes/@-41.3179042,-72.9876064,17z/data=!3m1!4b1!4m5!3m4!1s0x961826d689f5fdb7:0x3761a330b305b4a!8m2!3d-41.3179082!4d-72.9854177)
 * Ouvert tous les jours
 * 4mn à pied de l'hôtel
+
+### [Las Buenas Brasas](https://es-la.facebook.com/pages/Las-Buenas-Brasas/203532413000554)
+* [San Pedro 543, Puerto Varas, Región de los Lagos, Chili](https://www.google.fr/maps/place/Restaurante+Las+Buenas+Brasas/@-41.3169999,-72.9862117,17z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sSecret+Patagonia+-+San+Pedro+311,+Puerto+Varas,+Regi%C3%B3n+de+los+Lagos,+Chili!3s0x961826d7a92dbc57:0x17b58c27c0376c8c!4m2!1d-72.984023!2d-41.317012!5m1!4e9!3m4!1s0x961826d71ddb1941:0xb7b4429a29092f18!8m2!3d-41.318495!4d-72.984315)
+* À 4mn à pied de l'hôtel
+* Fruits de mer
+
+### [Costumbrista](https://www.tripadvisor.fr/Restaurant_Review-g294299-d8834144-Reviews-Costumbrista-Puerto_Varas_Los_Lagos_Region.html)
+* [Del Salvador 547, Puerto Varas, Región de los Lagos, Chili](https://www.google.fr/maps/place/Costumbrista/@-41.3169837,-72.9862117,17z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sSecret+Patagonia+-+San+Pedro+311,+Puerto+Varas,+Regi%C3%B3n+de+los+Lagos,+Chili!3s0x961826d7a92dbc57:0x17b58c27c0376c8c!4m2!1d-72.984023!2d-41.317012!5m1!4e9!3m4!1s0x961826d4112bf89f:0x9f164005b8cf4d39!8m2!3d-41.3177728!4d-72.9863097)
+* À 5mn à pied de l'hôtel
+* Très bonnes critiques sur Tripadvisor
+
 
 ## Départ le mardi 27/11/2018 vers 10h00
 
