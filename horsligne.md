@@ -8,5 +8,5 @@ author: tpi
 
 * **Veuillez vérifier votre connexion**
     * Activez le Wifi ou la 4G
-    * Si ils sont activez, vous êtes en zone hors connexion
+    * Si ils sont déjà activés, vous êtes en zone hors connexion
 
