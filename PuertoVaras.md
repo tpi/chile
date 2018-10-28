@@ -34,8 +34,7 @@ author: tpi
 * 3mn à pied de l'hôtel
 * Récupérer la carte du Paseo Patrimonial: balade à pied à la découverte d'une dizaine de demeures particulières
 
-### Iglesia del Sagrado Corazón
-* [Emplacement](https://www.google.fr/maps/place/Iglesia+del+Sagrado+Coraz%C3%B3n+de+Jes%C3%BAs/@-41.3202421,-72.9854547,17z/data=!4m5!3m4!1s0x9618278e65c1f827:0x44b432a9592794df!8m2!3d-41.3206571!4d-72.9861413)
+### [Iglesia del Sagrado Corazón](https://www.google.fr/maps/place/Iglesia+del+Sagrado+Coraz%C3%B3n+de+Jes%C3%BAs/@-41.3202421,-72.9854547,17z/data=!4m5!3m4!1s0x9618278e65c1f827:0x44b432a9592794df!8m2!3d-41.3206571!4d-72.9861413)
 * 8mn à pied de l'hôtel
 
 ### Kayak sur lac ou mer
@@ -58,7 +57,7 @@ author: tpi
 ## Manger et boire
 
 ### [La Gringa Bakery](https://www.tripadvisor.fr/Restaurant_Review-g294299-d2039053-Reviews-La_Gringa_Bakery-Puerto_Varas_Los_Lagos_Region.html)
-* [Imperial 605 Puerto Varas, Chili](https://www.google.fr/maps/place/Imperial+605,+Puerto+Varas,+Regi%C3%B3n+de+los+Lagos,+Chili/@-41.3241329,-72.9732936,17z/data=!4m13!1m7!3m6!1s0x961826c323a6cc29:0xcfc9c28e3283cae0!2sImperial+605,+Puerto+Varas,+Regi%C3%B3n+de+los+Lagos,+Chili!3b1!8m2!3d-41.3243436!4d-72.9731122!3m4!1s0x961826c323a6cc29:0xcfc9c28e3283cae0!8m2!3d-41.3243436!4d-72.9731122)
+* [Imperial 605 Puerto Varas, Chili](https://www.google.fr/maps/place/La+Gringa+Bakery+Caf%C3%A9/@-41.323546,-72.9766903,17z/data=!3m1!4b1!4m5!3m4!1s0x961826c34c673b75:0xb3543344f1f34874!8m2!3d-41.32355!4d-72.9745016)
 * Fermé le dimanche soir
 * 19mn à pied de l'hôtel
 * Coup de coeur Lonely Planet
