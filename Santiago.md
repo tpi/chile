@@ -108,10 +108,9 @@ author: tpi
 ## Départ le dimanche 11/11/2018 vers 11h00
 
 ### [Terminal Alameda](https://www.google.com/maps/place/Terminal+Alameda+Santiago/@-33.4534034,-70.687123,15z/data=!4m5!3m4!1s0x0:0xeaaf27139e268df6!8m2!3d-33.4534037!4d-70.687123)
-
 * Métro Universidad de Santiago - au premier étage d'un centre commercial. 
 * À environ 20mn de l'hôtel en métro ou taxi
-* Départs pour **Valparaiso** toutes les 20 mn de 6h à 22h20
+* Départs pour **Valparaiso** toutes les 20 mn de 6h à 22h20, 2h de trajet
 * Compagnies Pullman ou [TurBus](https://www.turbus.cl/wtbus/indexCompra.jsf)
 * Cf [Checkmybus](https://www.checkmybus.fr/) ou [Busbud](https://www.busbud.com/fr)
 * Environ 7500 $Ch soit 10€ mais potentiellement moins, à voir.
