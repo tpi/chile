@@ -5,7 +5,7 @@ tags: Chili
 author: tpi
 
 
-## Arrivée le dimanche 11/11/2010 à 14h00 local
+## Arrivée le dimanche 11/11/2010 à 13h30 local
 
 ### [Terminal Rodoviario Valparaiso](https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
 
@@ -82,15 +82,16 @@ author: tpi
 * [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294306-d793263-Reviews-Cafe_Vinilo-Valparaiso_Valparaiso_Region.html)
 * Cerro Alegre
 * [Almirante Montt 448, Valparaiso 2371566, Chili](https://www.google.fr/maps/place/Almirante+Montt+448,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili/@-33.0435644,-71.6280823,17z/data=!4m13!1m7!3m6!1s0x9689e12efafbdfad:0x8219f36271fec182!2sAlmirante+Montt+448,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili!3b1!8m2!3d-33.043472!4d-71.628189!3m4!1s0x9689e12efafbdfad:0x8219f36271fec182!8m2!3d-33.043472!4d-71.628189)
-* Recommandé par le Lonely Planet
+* Coup de coeur Lonely Planet
 * À 3mn à pied de l'hôtel
 
 ### [Via Via Café](http://viavia.world/es/america/valparaiso?utm_source=tripadvisor&utm_medium=referral)
 * [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294306-d1647178-Reviews-ViaVia_Cafe-Valparaiso_Valparaiso_Region.html)
 * [Almirante Montt 217, Valparaiso 2380008, Chili](https://www.google.fr/maps/place/Almirante+Montt+217,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili/@-33.0434679,-71.6271603,17z/data=!4m13!1m7!3m6!1s0x9689e12ee9c6e517:0x8cb00d6235b9bf73!2sAlmirante+Montt+217,+Valpara%C3%ADso,+Regi%C3%B3n+de+Valpara%C3%ADso,+Chili!3b1!8m2!3d-33.0434482!4d-71.6272956!3m4!1s0x9689e12ee9c6e517:0x8cb00d6235b9bf73!8m2!3d-33.0434482!4d-71.6272956)
+* Pour un verre
 * Tenu par un belge
 * Bières belges et vins chilien
-* Recommandé par le Lonely Planet pour un verre
+* Coup de coeur Lonely Planet
 * À 5mn à pied de l'hôtel
 * Fermé le dimanche soir et le lundi
 
