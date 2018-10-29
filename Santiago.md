@@ -62,15 +62,48 @@ author: tpi
 * [Page Facebook](https://www.facebook.com/chipelibrerepublicaindependientedelpisco)
 * [José Victorino Lastarria 282, Santiago, Región Metropolitana, Chili](https://www.google.com/maps/place/Chipe+Libre+-+R%C3%A9publica+Independiente+del+Pisco/@-33.4443264,-70.6552782,15z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sPdte+Juan+Antonio+R%C3%ADos+59,+Santiago,+Regi%C3%B3n+Metropolitana,+Chili!3s0x9662c5a011771d81:0xda66a22e6096f337!4m2!1d-70.6465234!2d-33.4443856!5m1!4e9!3m4!1s0x9662c59940a0ee13:0x77de1693723458d4!8m2!3d-33.4383272!4d-70.6412349)
 * Recommandé par le Routard
+* 14mn à pied de l'hôtel
 
 ### [Peumayen Ancestral Food](http://www.peumayenchile.cl/es/index.html)
 * [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294305-d3843350-Reviews-Peumayen_Ancestral_Food-Santiago_Santiago_Metropolitan_Region.html)
 * [Providencia, Constitución 136, Santiago, Providencia, Región Metropolitana, Chili](https://www.google.cl/maps/place/Peumayen+Ancestral+Food/@-33.432641,-70.634816,17z/data=!4m5!3m4!1s0x9662c59aa16db1dd:0x1766370983bcca20!8m2!3d-33.432753!4d-70.634924)
+* Quartier Bellavista, métro Baquedano
+* Opter pour le menu dégustation
+* Coup de coeur Lonely Planet
+* 27mn à pied de l'hôtel
 
 ### [Bocanariz](http://bocanariz.cl/?lang=en)
 * [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g294305-d3192360-Reviews-Bocanariz-Santiago_Santiago_Metropolitan_Region.html)
 * [José Victorino Lastarria 276, Santiago, Región Metropolitana, Chili](https://www.google.cl/maps/place/Bocan%C3%A1riz/@-33.4443111,-70.6552165,15z/data=!4m17!1m11!2m10!1sRestaurants!3m6!1sRestaurants!2sNovaPark+Hotel+-+Pdte+Juan+Antonio+R%C3%ADos+59,+Santiago,+Regi%C3%B3n+Metropolitana,+Chili!3s0x9662c5a011a70695:0x9aae8f8391d10430!4m2!1d-70.6464617!2d-33.4443747!5m1!4e9!3m4!1s0x9662c59940a7c1e7:0x92f1a277401b023d!8m2!3d-33.4383293!4d-70.6412305)
 * Recommandé par le Routard
+* 14mn à pied de l'hôtel
+
+### Mercado Central
+* [San Pablo, Santiago](https://www.google.fr/maps/place/Central+Market/@-33.4337575,-70.6512697,17z/data=!4m12!1m6!3m5!1s0x9662c5bca6d08be9:0xf854bb863ef0b779!2sCentral+Market!8m2!3d-33.4337575!4d-70.6512697!3m4!1s0x9662c5bca6d08be9:0xf854bb863ef0b779!8m2!3d-33.4337575!4d-70.6512697)
+* Quartier Centro, plusieurs restaurants dans la halle aux poissons
+* Pour le déjeuner
+* Coup de coeur Lonely Planet
+* 19mn à pied de l'hôtel
+
+### [Cafe de la Barra](https://www.tripadvisor.fr/Restaurant_Review-g294305-d812567-Reviews-Cafe_de_la_Barra-Santiago_Santiago_Metropolitan_Region.html)
+* [Jose Miguel De La Barra 455, Santiago](https://www.google.fr/maps/place/Caf%C3%A9+de+la+Barra+%26+Le+Petit+Bistrot/@-33.4407092,-70.6480304,16z/data=!4m5!3m4!1s0x9662c598f0d11c0f:0xab83470aa28e7c20!8m2!3d-33.4370669!4d-70.6432113)
+* Quartier Barrio Lastarria, Métro Bellas Artes
+* 14mn à pied de l'hôtel
+
+### [Peluqueria Francesa](https://www.tripadvisor.fr/Restaurant_Review-g294305-d6168359-Reviews-Peluqueria_Francesa-Santiago_Santiago_Metropolitan_Region.html)
+* [Compania De Jesus 2789 | Corner of Calle Libertad, Santiago](https://www.google.fr/maps/place/Peluquer%C3%ADa+Francesa/@-33.4440533,-70.6712472,15z/data=!4m5!3m4!1s0x9662c45230a8abd3:0xaf9421c0c4d2273d!8m2!3d-33.4409172!4d-70.6741459)
+* Quartier Barrio Brasil (potentiellement mal falmé le soir), métro Ricardo Cumming
+* Cusine d'inspiration française
+* Coup de coeur Lonely Planet
+* 40mn à pied de l'hôtel
+
+### [Cafe Mosqueto](https://www.tripadvisor.fr/Restaurant_Review-g294305-d811279-Reviews-Cafe_Mosqueto-Santiago_Santiago_Metropolitan_Region.html)
+* [Mosqueto 440, Santiago,](https://www.google.fr/maps/place/Caf%C3%A9+Mosqueto/@-33.437322,-70.6466099,17z/data=!3m1!4b1!4m5!3m4!1s0x9662c5988db636c5:0x1fd131fb1166cbbe!8m2!3d-33.4373265!4d-70.6444212)
+* Quartier Centro, métro Bellas Artes
+* Pour un verre
+* Coup de coeur Lonely Planet
+* 14mn à pied de l'hôtel
+
 
 ## Départ le dimanche 11/11/2018 vers 11h00
 
