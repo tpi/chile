@@ -99,8 +99,8 @@ author: tpi
 
 ## Liens
 
-### [Puerto Varas](http://tse-tse.org/2018/10/puerto-varas/)
+### [Puerto Varas](http://tse-tse.org/2018/10/puerto-varas/index.html)
 
-### [Parcours](http://tse-tse.org/2018/10/chili-2018/)
+### [Parcours](http://tse-tse.org/2018/10/chili-2018/index.html)
 
-### [Santiago (2)](http://tse-tse.org/2018/10/santiago-2/)
+### [Santiago (2)](http://tse-tse.org/2018/10/santiago-2/index.html)
