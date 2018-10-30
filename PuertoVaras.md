@@ -123,8 +123,8 @@ author: tpi
 
 ## Liens
 
-### [San Pedro de Acatama](http://tse-tse.org/2018/10/san-pedro-de-acatama/)
+### [San Pedro de Acatama](http://tse-tse.org/2018/10/san-pedro-de-acatama/index.html)
 
-### [Parcours](http://tse-tse.org/2018/10/chili-2018/)
+### [Parcours](http://tse-tse.org/2018/10/chili-2018/index.html)
 
-### [Castro](http://tse-tse.org/2018/10/castro/)
+### [Castro](http://tse-tse.org/2018/10/castro/index.html)
