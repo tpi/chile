@@ -109,8 +109,8 @@ author: tpi
 
 ## Liens
 
-### [Santiago](http://tse-tse.org/2018/10/santiago/)
+### [Santiago](http://tse-tse.org/2018/10/santiago/index.html)
 
-### [Parcours](http://tse-tse.org/2018/10/chili-2018/)
+### [Parcours](http://tse-tse.org/2018/10/chili-2018/index.html)
 
-### [La Serena](http://tse-tse.org/2018/10/la-serena/)
+### [La Serena](http://tse-tse.org/2018/10/la-serena/index.html)
