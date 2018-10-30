@@ -147,8 +147,8 @@ author: tpi
 
 ## Liens
 
-### [Vicuna](http://tse-tse.org/2018/10/vicuna/)
+### [Vicuna](http://tse-tse.org/2018/10/vicuna/index.html)
 
-### [Parcours](http://tse-tse.org/2018/10/chili-2018/)
+### [Parcours](http://tse-tse.org/2018/10/chili-2018/index.html)
 
-### [Puerto Varas](http://tse-tse.org/2018/10/puerto-varas/)
+### [Puerto Varas](http://tse-tse.org/2018/10/puerto-varas/index.html)
