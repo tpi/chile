@@ -107,8 +107,8 @@ author: tpi
 
 ## Liens
 
-### [La Serena](http://tse-tse.org/2018/10/la-serena/)
+### [La Serena](http://tse-tse.org/2018/10/la-serena/index.html)
 
-### [Parcours](http://tse-tse.org/2018/10/chili-2018/)
+### [Parcours](http://tse-tse.org/2018/10/chili-2018/index.html)
 
-### [San Pedro de Acatama](http://tse-tse.org/2018/10/san-pedro-de-acatama/)
+### [San Pedro de Acatama](http://tse-tse.org/2018/10/san-pedro-de-acatama/index.html)
