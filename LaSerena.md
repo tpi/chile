@@ -108,8 +108,8 @@ author: tpi
 
 ## Liens
 
-### [Valparaiso](http://tse-tse.org/2018/10/valparaiso/)
+### [Valparaiso](http://tse-tse.org/2018/10/valparaiso/index.html)
 
-### [Parcours](http://tse-tse.org/2018/10/chili-2018/)
+### [Parcours](http://tse-tse.org/2018/10/chili-2018/index.html)
 
-### [Vicuna](http://tse-tse.org/2018/10/vicuna/)
+### [Vicuna](http://tse-tse.org/2018/10/vicuna/index.html)
