@@ -62,9 +62,13 @@ author: tpi
 ### Agences recommandées par le Routard
 * [Santiago Atias Excursiones](http://ranchochago.com/fr/) - Guide francophone
 * [Maxim Experience](http://www.maximexperience.cl/en-US/#body) - Quelques guides francophones
-* [Cosmo Andino Expediciones](http://cosmoandino.cl/index.php/excursions-explorations/) 
+* [Cosmo Andino Expediciones](http://cosmoandino.cl/index.php/excursions-explorations/) : le Lonely Planet indique un spécialiste des treks, un peu plus cher que la concurrence mais la qualité s'en ressent
 * [Voyage Atacama](http://www.voyage-atacama.com/) - Belge - Pas de bureau - Formulaire de contact - Joignable via What's App
 * [Aventurarte Overland](https://www.facebook.com/Aventurarte-Overland-800819516639022/) - Belge - Pas de bureau
+
+### Agences recommandées par le Lonely Planet
+* [Desert Adventure](http://www.desertadventure.cl/)
+* [Terra Extreme](http://www.terraextreme.cl/)
 
 
 ## Manger et boire
@@ -79,13 +83,19 @@ author: tpi
 ### [Adobe](https://www.tripadvisor.fr/Restaurant_Review-g303681-d1027371-Reviews-Adobe-San_Pedro_de_Atacama_Antofagasta_Region.html)
 * [Caracoles 169, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Adobe/@-22.9116015,-68.2012196,17z/data=!4m8!1m2!2m1!1srestaurants!3m4!1s0x96a9745840accd09:0x675f262a9fc9fb7e!8m2!3d-22.9117213!4d-68.2012196)
 * Cuisine Latino
+* Mentionné par le Lonely Planet : savoureux mais cher; idéal pour un verre
 * À 4mn de l'hôtel
 
 ### [La Estaka](https://www.tripadvisor.fr/Restaurant_Review-g303681-d1231983-Reviews-La_Estaka-San_Pedro_de_Atacama_Antofagasta_Region.html)
 * [Tocopilla 418, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/La+Estaka/@-22.911989,-68.2015641,17z/data=!4m15!1m9!2m8!1srestaurants!3m6!1srestaurants!2sSan+Pedro+de+Atacama,+R%C3%A9gion+d'Antofagasta,+Chili!3s0x96a84c7aa92abf3f:0x7af4614cacf997d1!4m2!1d-68.1997156!2d-22.9087073!3m4!1s0x96a97457c0e425bd:0x11961d5b6d6bf4c8!8m2!3d-22.9116357!4d-68.2014288)
 * Resto relativement chic mais apprécié avec parfois des musiciens
-* Recommandé par Le Routard avec des bémols sur le prix (menus intessants)
+* Recommandé par Le Routard avec des bémols sur le prix (menus interessants)
 * À 4mn de l'hôtel
+
+### [Blanco](https://www.tripadvisor.fr/Restaurant_Review-g303681-d2032191-Reviews-Blanco-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [Caracoles 195, San Pedro de Atacama](https://www.google.fr/maps/place/Blanco/@-22.9116311,-68.2038847,17z/data=!3m1!4b1!4m5!3m4!1s0x96a9745820096d7b:0x2992b739f1dacff0!8m2!3d-22.9116311!4d-68.2016907)
+* Mentionné par le Lonely Planet : le plus branché de la ville
+* 5mn à pied de l'hôtel
 
 ### [Ckunna](http://www.ckunna.cl/)
 * [Tocopilla 359, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Ckunna/@-22.9119791,-68.2015641,17z/data=!4m15!1m9!2m8!1srestaurants!3m6!1srestaurants!2sSan+Pedro+de+Atacama,+R%C3%A9gion+d'Antofagasta,+Chili!3s0x96a84c7aa92abf3f:0x7af4614cacf997d1!4m2!1d-68.1997156!2d-22.9087073!3m4!1s0x96a974570a560639:0x7e94110489e2106c!8m2!3d-22.9099989!4d-68.2010822)
@@ -93,6 +103,12 @@ author: tpi
 * Cuisine péruvienne, un peu cher (mais moins que La Esteka), à l'air vraiment sympa
 * À 2mn de l'hôtel
 * Recommandé par le Routard
+* Mentionné par le Lonely Planet : bar accueillant et terrasse à l'arrière
+
+### [La Casona](https://www.tripadvisor.fr/Restaurant_Review-g303681-d1027370-Reviews-La_Casona-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [Caracoles 195, San Pedro de Atacama](https://www.google.fr/maps/place/La+Casona/@-22.911645,-68.2019877,17z/data=!4m12!1m6!3m5!1s0x96a975bee547ff35:0x351011b29291a9a7!2sLa+Casona!8m2!3d-22.911645!4d-68.2019877!3m4!1s0x96a975bee547ff35:0x351011b29291a9a7!8m2!3d-22.911645!4d-68.2019877)
+* 5mn à pied de l'hôtel
+* Coup de coeur Lonely Planet
 
 ### [La Picada del Indio](https://www.tripadvisor.fr/Restaurant_Review-g303681-d7364459-Reviews-La_Pica_Del_Indio-San_Pedro_de_Atacama_Antofagasta_Region.html)
 * [Tocopilla 418, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/La+Picada+Del+Indio/@-22.9076583,-68.2020421,16z/data=!4m8!1m2!2m1!1sRestaurants!3m4!1s0x96a97457bd5b4b85:0x27092be076626eb8!8m2!3d-22.9109412!4d-68.2012253)
@@ -103,12 +119,20 @@ author: tpi
 ### [Las Delicias de Carmen](https://www.tripadvisor.fr/Restaurant_Review-g303681-d2169823-Reviews-Las_Delicias_de_Carmen-San_Pedro_de_Atacama_Antofagasta_Region.html)
 * [Calama 370, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Las+Delicias+de+Carmen/@-22.910253,-68.2042975,17z/data=!3m1!4b1!4m5!3m4!1s0x96a97457908819ed:0x33c1372522adf2f6!8m2!3d-22.910258!4d-68.2021088)
 * Recommandé par le Routard, fréquenté par les locaux, pas cher
+* Mentionné par le Lonely Planet : inondé de lumière; vue sur jardin; patisseries et empanadas délicieuses
 * À 3mn de l'hôtel
 
 ### [Mal de Puna](https://www.tripadvisor.fr/Restaurant_Review-g303681-d11805050-Reviews-Mal_de_Puna-San_Pedro_de_Atacama_Antofagasta_Region.html)
 * [Domingo Atienza 2357, San Pedro de Atacama, Región de Antofagasta, Chili](https://www.google.fr/maps/place/Mal+de+Puna/@-22.9097256,-68.2052292,17z/data=!3m1!4b1!4m5!3m4!1s0x96a97459d760084d:0x38dc63155ba06196!8m2!3d-22.9097306!4d-68.2030405)
 * [Page Facebook](https://www.facebook.com/maldepuna/) - Voir vidéo...il y a de l'ambiance !;-)
 * À 4mn de l'hôtel
+
+### [Pizzeria El Charrua](https://www.tripadvisor.fr/Restaurant_Review-g303681-d3642288-Reviews-Pizzeria_El_Charrua-San_Pedro_de_Atacama_Antofagasta_Region.html)
+* [Tocopilla 442, San Pedro de Atacama](https://www.google.fr/maps/place/Pizzeria+el+Charrua/@-22.9115499,-68.2032654,17z/data=!3m1!4b1!4m5!3m4!1s0x96a97457bd312af9:0x7b700cc8ba42129e!8m2!3d-22.9115499!4d-68.2010714)
+* Pizzeria
+* Mentionné par le Lonely Planet : meilleure pizza à pâte fine de la ville; pas d'alcool à la carte
+* 4mn à pied de l'hôtel
+
 
 ## Départ le samedi 24/11/2018 vers 12h00
 
