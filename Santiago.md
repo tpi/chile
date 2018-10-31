@@ -13,6 +13,7 @@ author: tpi
 * Bus **Centropuerto** jusqu'au [Terminal Los Heroes](https://www.google.com/maps/place/Terminal+Los+Heroes/@-33.4450167,-70.6576392,17z/data=!4m5!3m4!1s0x9662c5a86150cb3d:0xa7a1780f2d3bf7d1!8m2!3d-33.4447582!4d-70.6585082) - Métro La Moneda (L1) à 5mn à pieds, toutes les 10-20 mn de 6h30 à 23h30 - 1700$Ch soit environ 2.20€. 5mn de métro entre les stations La Moneda et Santa Lucia.
 * Bus **Turbus** jusqu'au [Terminal Alameda](https://www.google.com/maps/place/Terminal+Alameda+Santiago/@-33.4534034,-70.687123,15z/data=!4m5!3m4!1s0x0:0xeaaf27139e268df6!8m2!3d-33.4534037!4d-70.687123) - Métro Universidad de Santiago (L1) - au premier étage d'un centre commercial. À environ 20mn de l'hotel en métro ou taxi, toutes les 20mn environ de 5h à minuit - 1800 $Ch soit environ 2.30€. 12mn de métro entre les stations Universidad de Santiago et Santa Lucia.
 * Les bus font tous un arrêt à la station de métro Pajaritos sur la ligne 1. Le Lonely Planet conseille de prendre le métro pour éviter les embouteillages du centre ville. 18mn de métro entre les stations Pajaritos et Santa Lucia.
+* Métro de 6h30 à 23h: carte rechargeable Tarjeta Bip 1550 $ (2 €) la carte puis 760 $ (1 €) max par trajet (dépend de l'heure)
 * **Minibus** - environ 7000 $Ch soit 9€ (Trans Vip)
 * **Taxi** - environ 20000 $Ch soit 25€
 
@@ -38,6 +39,11 @@ author: tpi
 * 6000 $Ch soit environ 8 €
 * Ouvert du mardi au dimanche de 10h à 18h
 * Le musée le plus intéressant de Santiago d'après le Lonely Planet
+
+### [Cerro Santa Lucia](https://www.tripadvisor.fr/Attraction_Review-g294305-d314522-Reviews-Cerro_Santa_Lucia-Santiago_Santiago_Metropolitan_Region.html)
+* [Av. O'Higgins, Santiago](https://www.google.fr/maps/place/Colline+Santa+Lucia+de+Santiago/@-33.440277,-70.6520881,15z/data=!3m1!4b1!4m5!3m4!1s0x9662c59f3b42ac29:0x9f9c852a64743e83!8m2!3d-33.4402778!4d-70.6433333)
+* Quartier Centro
+* Parc sur une colline avec de belles statues et fontaines; vue au sommet
 
 ### [Cerro San Cristobal](https://santiagoando.com/cerro-san-cristobal-2)
 * Quartier Bellavista
