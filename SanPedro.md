@@ -37,27 +37,7 @@ author: tpi
     * 4h départ à 16h
     * 12000 $ + 3000 $ pour les entrées
 
-### Salar de Acatama (altitude max 2400m) / lagubas altiplano (4200m)
-* Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
-    * Guides francophones
-    * Lagunas Chaxa (Flamants Roses), Ojos, Tebinquiche et dégustation de vins chiliens au coucher du soleil
-    * [Excursion en groupe le mercredi après-midi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_salar)
-    30000 $Ch (39€) plus 4500 $Ch (7€) pour l'entrée des parcs
-    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_salar), 215000 $Ch (275 €) pour deux personnes plus 4500 $Ch pour l'entrée des parcs
-
-* Via [Desert Adventure](http://www.desertadventure.cl/tours/lagunas-altiplanicas-27971)
-    * Lagunas Altiplánicas (4200m) + Laguna Chaxa + Socaire + Toconao
-    * Guide anglais/espagnol
-    * 7h départ à 6h30
-    * 30000 $ hors entrée dans les parcs
-
-* Via [Terra Extreme](http://www.terraextreme.cl/lagunes-de-laltiplanohauts-plateaux-et-le-desert-de-sel-d%e2%80%99atacama/)
-    * village de Toconao + oasis de Jerez + Salar de Acatama + lagune Chaxa + Altiplano lagunes Miscanti et Meñique + petit village de Socaire
-    * 10h départ à 8h
-    * 25000 $ déjeuner inclus + 5500 $ pour les entrées
-
-
-### Tour Laguna Cejar
+### Tour Laguna Cejar altitude max 2600m)
 * Via [Desert Adventure](http://www.desertadventure.cl/tours/tour-laguna-cejar-28676)
     * Laguna Cejar + Ojos del Salar + coucher de soleil à Laguna Tebinquiche
     * Coiucher de soleil sur lagune avec apéritif
@@ -70,13 +50,32 @@ author: tpi
     * 5h départ à 16h
     * 15000 $ + 17000 $ pour les entrées
 
-### Salar de Talar (altitude max 4200m)
+### Salar de Acatama (altitude max 2400m)
+* Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
+    * Guides francophones
+    * Lagunas Chaxa (Flamants Roses), Ojos, Tebinquiche et dégustation de vins chiliens au coucher du soleil
+    * [Excursion en groupe le mercredi après-midi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_salar)
+    30000 $Ch (39€) plus 4500 $Ch (7€) pour l'entrée des parcs
+    * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_salar), 215000 $Ch (275 €) pour deux personnes plus 4500 $Ch pour l'entrée des parcs
+
+### Salar de Talar / Lagunas altiplanicas (altitude max 4200m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
     * Lagunas altiplanicas : Miscanti, Miñiques, Tuyactu et Pierres rouges
     * [Excursion en groupe le jeudi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_altiplanicas)
      60000 $Ch (78€) plus 3000 $Ch pour l'entrée des parcs
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_altiplanicas), 350000 $Ch (445 €) pour deux personnes plus 3000 $Ch pour l'entrée des parcs
+
+* Via [Desert Adventure](http://www.desertadventure.cl/tours/lagunas-altiplanicas-27971)
+    * Lagunas Altiplánicas + Laguna Chaxa + Socaire + Toconao
+    * Guide anglais/espagnol
+    * 7h départ à 6h30
+    * 30000 $ hors entrée dans les parcs
+
+* Via [Terra Extreme](http://www.terraextreme.cl/lagunes-de-laltiplanohauts-plateaux-et-le-desert-de-sel-d%e2%80%99atacama/)
+    * village de Toconao + oasis de Jerez + Salar de Acatama + lagune Chaxa + Altiplano lagunes Miscanti et Meñique + petit village de Socaire
+    * 10h départ à 8h
+    * 25000 $ déjeuner inclus + 5500 $ pour les entrées
 
 ### Geysers del Tatio (altitude max 4320m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
