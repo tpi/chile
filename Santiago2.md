@@ -22,6 +22,12 @@ author: tpi
 * Teléfono: (+56) 2 2630 3000
 * Métro Pédro de Valdivia (L1)
 
+## À voir / à faire
+
+### [Parque De Las Esculturas](https://www.google.fr/maps/place/Parque+De+Las+Esculturas/@-33.4188154,-70.6127941,17z/data=!4m7!3m6!1s0x9662cf67bcba8e37:0x4710586ce2240042!5m1!1s2018-11-25!8m2!3d-33.419693!4d-70.6119626)
+* Parc avec 20 sculptures sur la rive nord du Rio Mapocho
+* 8mn à pied de l'hôtel
+
 ### [Casas Museo Fundación Pablo Neruda (La Chascona)](https://fundacionneruda.org/en/museums-houses/la-chascona-museum-house/)
 * [Fernando Márquez de La Plata 0192, Providencia, Región Metropolitana, Chili](https://www.google.fr/maps/place/La+Chascona/@-33.4311171,-70.651927,14z/data=!4m5!3m4!1s0x9662c59017cb616d:0x4efb4711f2a9a116!8m2!3d-33.4311212!4d-70.6344175)
 * Quartier Bellavista
@@ -56,12 +62,6 @@ author: tpi
     * Traditionnelle à 16000 $Ch (20 €)
     * Accompagné par un sommelier avec dégustation de 4 vins accompagné de fromage 25000 $Ch (32€)
 * Ouvert tous les jours (sauf jours feriés) de 10h à 17h10
-
-## À voir / à faire
-
-### [Parque De Las Esculturas](https://www.google.fr/maps/place/Parque+De+Las+Esculturas/@-33.4188154,-70.6127941,17z/data=!4m7!3m6!1s0x9662cf67bcba8e37:0x4710586ce2240042!5m1!1s2018-11-25!8m2!3d-33.419693!4d-70.6119626)
-* Parc avec 20 sculptures sur la rive nord du Rio Mapocho
-* 8mn à pied de l'hôtel
 
 ## Manger et boire
 
