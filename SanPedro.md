@@ -27,14 +27,49 @@ author: tpi
     30000 $Ch (39€) plus 5500 $Ch (7€) pour l'entrée des parcs
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_lune), 215000 $Ch (275 €) pour deux personnes plus 5500 $Ch pour l'entrée des parcs
 
-### Salar de Acatama (altitude max 2400m)
+* Via [Desert Adventure](http://www.desertadventure.cl/tours/valle-de-la-luna-27922)
+    * Guide anglais/espagnol
+    * 5h
+    * 17000 $ hors entrée dans les parcs
+
+* Via [Terra Extreme](http://www.terraextreme.cl/la-vallee-de-la-lune/)
+    * vallée de la mort + vallée de la lune + coucher de soleil
+    * 4h départ à 16h
+    * 12000 $ + 3000 $ pour les entrées
+
+### Salar de Acatama (altitude max 2400m) / lagubas altiplano (4200m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
     * Lagunas Chaxa (Flamants Roses), Ojos, Tebinquiche et dégustation de vins chiliens au coucher du soleil
     * [Excursion en groupe le mercredi après-midi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_salar)
     30000 $Ch (39€) plus 4500 $Ch (7€) pour l'entrée des parcs
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_salar), 215000 $Ch (275 €) pour deux personnes plus 4500 $Ch pour l'entrée des parcs
+
+* Via [Desert Adventure](http://www.desertadventure.cl/tours/lagunas-altiplanicas-27971)
+    * Lagunas Altiplánicas (4200m) + Laguna Chaxa + Socaire + Toconao
+    * Guide anglais/espagnol
+    * 7h départ à 6h30
+    * 30000 $ hors entrée dans les parcs
+
+* Via [Terra Extreme](http://www.terraextreme.cl/lagunes-de-laltiplanohauts-plateaux-et-le-desert-de-sel-d%e2%80%99atacama/)
+    * village de Toconao + oasis de Jerez + Salar de Acatama + lagune Chaxa + Altiplano lagunes Miscanti et Meñique + petit village de Socaire
+    * 10h départ à 8h
+    * 25000 $ déjeuner inclus + 5500 $ pour les entrées
+
+
+### Tour Laguna Cejar
+* Via [Desert Adventure](http://www.desertadventure.cl/tours/tour-laguna-cejar-28676)
+    * Laguna Cejar + Ojos del Salar + coucher de soleil à Laguna Tebinquiche
+    * Coiucher de soleil sur lagune avec apéritif
+    * Guide anglais/espagnol
+    * 5h départ à 15h50
+    * 20000 $ hors entrée dans les parcs
     
+* Via [Terra Extreme](http://www.terraextreme.cl/laguna-ceja-2/)
+    * Bain d'eau salée à Laguna Cejar et Baltinache, Ojos del Salar, coucher de soleil à Laguna Tebinquiche
+    * 5h départ à 16h
+    * 15000 $ + 17000 $ pour les entrées
+
 ### Salar de Talar (altitude max 4200m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
@@ -42,7 +77,7 @@ author: tpi
     * [Excursion en groupe le jeudi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_altiplanicas)
      60000 $Ch (78€) plus 3000 $Ch pour l'entrée des parcs
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_altiplanicas), 350000 $Ch (445 €) pour deux personnes plus 3000 $Ch pour l'entrée des parcs
-    
+
 ### Geysers del Tatio (altitude max 4320m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
@@ -50,7 +85,18 @@ author: tpi
     * [Excursion en groupe le vendredi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_geyser)
     60000$Ch (78€) plus 10000 $Ch (13€) pour l'entrée des parcs
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_geysers), 350000 $Ch (445 €) pour deux personnes plus 10000 $Ch pour l'entrée des parcs
- 
+
+* Via [Desert Adventure](http://www.desertadventure.cl/tours/geyser-del-tatio-28585)
+    * Geysers del Tatio + Piscina Termal + Pueblo de Machuca
+    * Guide anglais/espagnol
+    * 7h30 départ à 4h30
+    * 25000 $ hors entrée dans les parcs
+
+* Via [Terra Extreme](http://www.terraextreme.cl/493-2/)
+    * Geysers del Tatio + Piscina Termal + petit village de bergers typique (Machuca)
+    * 9h départ à 4h
+    * 20000 $ + 5000 $ pour les entrées
+
 ### Salar de Tara (altitude max 4800m)
 * Via [Santiago Atias Excursiones](http://ranchochago.com/fr/index.html)
     * Guides francophones
@@ -58,6 +104,13 @@ author: tpi
     * [Excursion en groupe le samedi](http://ranchochago.com/fr/excursions_groupe_fr.html#exclu_tara)
     60000$Ch (78€)
     * [Excursion privée](http://ranchochago.com/fr/excursions_privees_fr.html#exclu_tara), 350000 $Ch (445 €) pour deux personnes
+
+* Via [Desert Adventure](http://www.desertadventure.cl/tours/salar-de-tara-28679)
+    * Bofedal de Quepiaco + vues du volacan Licancabur + moines Pakana + Salar de Tara
+    * Guide anglais/espagnol
+    * 9h départ à 8h
+    * 55000 $ hors entrée dans les parcs
+
 
 ### Agences recommandées par le Routard
 * [Santiago Atias Excursiones](http://ranchochago.com/fr/) - Guide francophone
@@ -68,7 +121,15 @@ author: tpi
 
 ### Agences recommandées par le Lonely Planet
 * [Desert Adventure](http://www.desertadventure.cl/)
+    * [Tripadvisor](https://www.tripadvisor.es/Attraction_Review-g303681-d14062351-Reviews-Desert_Adventure-San_Pedro_de_Atacama_Antofagasta_Region.html)
+    * [Calle Caracoles esquina Calle Tocopilla, San Pedro de Atacama](https://www.google.fr/maps/place/Desert+Adventure/@-22.9115553,-68.2032153,17z/data=!3m1!4b1!4m5!3m4!1s0x96a97457bf6274f1:0x3042ea8459779f63!8m2!3d-22.9115553!4d-68.2010213)
+    * 4mn à pied de l'hôtel
+    * A priori des guides parlant espagnol et anglais
 * [Terra Extreme](http://www.terraextreme.cl/)
+    * [Tripadvisor](https://www.tripadvisor.es/Attraction_Review-g303681-d1891651-Reviews-Terra_Extreme-San_Pedro_de_Atacama_Antofagasta_Region.html)
+    * [Toconao S/N, San Pedro de Atacama](https://www.google.fr/maps/place/TERRA+EXTREME/@-22.9112835,-68.2009944,18z/data=!3m1!4b1!4m5!3m4!1s0x96a97457b5115497:0xfe0f917d69097f54!8m2!3d-22.9112835!4d-68.1998974)
+    * 5mn à pied de l'hôtel
+    * Probablement des guides parlant espagnol uniquement (pas mention d'anglais)
 
 
 ## Manger et boire
