@@ -42,9 +42,14 @@ author: tpi
   * Couple franco-chilien
   * À faire le samedi 17 novembre
   * Départ 9h30, retour à 14h00
-  * Excursion en minibus dans les sites de la vallée
+  * Excursion en minibus dans les sites de la vallée - entre 15000$ et 25000$ (environ 25€)
   * Location de vélos 7000$Ch la journée, 2 itinéraires
-  
+
+### Pisco Elqui (village)
+* 50mn en bus depuis Vicuna (1500$)
+* Distileria Pisco Mistral : visite d'une heure + dégustation 6000$
+
+
 ## Manger et boire
 
 ### [Solar Elqui Donde Martita](https://www.tripadvisor.fr/Restaurant_Review-g970257-d3928591-Reviews-Restaurant_Solar_Elqui_Donde_Martita-Vicuna_Coquimbo_Region.html)
