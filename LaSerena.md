@@ -69,7 +69,7 @@ author: tpi
 * [Av del Mar 5700, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Restaurant+Bakulic/@-29.9407135,-71.2889364,17z/data=!4m20!1m12!2m11!1srestaurants!3m6!1srestaurants!2sPrimera+Hacienda+Hotel+Boutique+-+Regimiento+Coquimbo+979,+La+Serena,+Regi%C3%B3n+de+Coquimbo,+Chili!3s0x9691ca6f810ab6b9:0x419e54284179e722!4m2!1d-71.2520595!2d-29.9085263!5m2!5m1!1s2018-10-30!3m6!1s0x9691ca2a1455e717:0xf763a902ba3cc888!5m1!1s2018-10-30!8m2!3d-29.9407135!4d-71.2867477)
 * [Tripadvisor](https://www.tripadvisor.fr/Restaurant_Review-g303674-d2196562-Reviews-Bakulic-La_Serena_Coquimbo_Region.html)
 * Poisson, Fruit de Mer, Chilien
-* 1h9mn à pied de l'hôtel
+* 1h10mn à pied de l'hôtel
 
 ### [Donde El Guaton](https://www.tripadvisor.fr/Restaurant_Review-g303674-d3369609-Reviews-Donde_el_Guaton-La_Serena_Coquimbo_Region.html)
 * [Brasil 750, La Serena, Región de Coquimbo, Chili](https://www.google.com/maps/place/Restaurant+Donde+El+Guat%C3%B3n/@-29.9006183,-71.2482897,17z/data=!3m1!4b1!4m5!3m4!1s0x9691ca7bf4f8c28b:0x4e142e8c4f436bc4!8m2!3d-29.900623!4d-71.246101)
