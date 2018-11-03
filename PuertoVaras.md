@@ -117,7 +117,7 @@ author: tpi
 
 ### Bus pour Castro
 * Départ du terminal [Cruz del Sur](https://www.google.fr/maps/place/Terminal+Puerto+Varas/@-41.3248315,-72.9868914,17z/data=!3m1!4b1!4m5!3m4!1s0x961826d1d5b4dadb:0x37e8e08ce213bd70!8m2!3d-41.3248355!4d-72.9847027)
-* Trajet jusqu'au terminal 15 mn à pieds, 8 minutes en taxi
+* Trajet jusqu'au terminal 15 mn à pied, 8 minutes en taxi
 * 4h20 de trajet jusqu'à Castro - Départ à 9h25 ou 11h00 avec la compagnie Cruz del Sur
 * Environ 7500 $Ch soit 10€
 
