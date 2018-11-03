@@ -8,23 +8,21 @@ author: tpi
 ## Arrivée le dimanche 11/11/2010 à 14h00 local
 
 ### [Terminal Rodoviario Valparaiso](https://www.google.com/maps/place/Terminal+Rodoviario+Valparaiso/@-33.0470063,-71.606059,15z/data=!4m5!3m4!1s0x0:0xdf65432b23a35d2!8m2!3d-33.0470063!4d-71.606059)
-
 * 20mn en bus de l'hotel, 13 mn en taxi (pas toujours de taxis à la gare routière, surtout la nuit)
 
 ### [Cirilo Armstrong Hotel Boutique](https://www.ciriloarmstrong.com/en-gb)
-
-[12, Cerro Alegre, Valparaiso](https://www.google.com/maps/place/Cirilo+Armstrong+Hotel+Boutique/@-33.0444596,-71.6316848,17z/data=!3m1!4b1!4m7!3m6!1s0x9689e12fad835c8f:0x401be7ad97d7702b!5m1!1s2018-10-07!8m2!3d-33.0444641!4d-71.6294961)
+* [12, Cerro Alegre, Valparaiso](https://www.google.com/maps/place/Cirilo+Armstrong+Hotel+Boutique/@-33.0444596,-71.6316848,17z/data=!3m1!4b1!4m7!3m6!1s0x9689e12fad835c8f:0x401be7ad97d7702b!5m1!1s2018-10-07!8m2!3d-33.0444641!4d-71.6294961)
 * Teléfono : (+56) 9 9902 8433 
 
 ## À voir / à faire
 
-### **Attention !** Musées fermés le lundi
+**Attention !** Musées fermés le lundi
 
-### Balades sur les 44 cerros de Valparaiso dont les Cerros Concepcion, Alegre etr Bellavista
+### [Balades sur les 44 cerros de Valparaiso dont les Cerros Concepcion, Alegre etr Bellavista](http://buenosviajes.net/visiter-valparaiso-cerros-colores-vivants-au-chili/)
 
-### 15 funiculaires dont le plus ancien: Ascensor Concepcion
+### [15 funiculaires dont le plus ancien: Ascensor Concepcion](https://fr.wikipedia.org/wiki/Funiculaires_de_Valparaiso)
 
-### Bus O (ou bus 612)
+### [Bus O (ou bus 612)](https://labicicletaverde.com/612-bus-valparaiso-chile-best-ride/)
 
 ### [Museo a Cielo Abierto](https://lefilrouge.media/chili-valparaiso-museo-a-cielo-abierto/)
 * [Wikipédia](https://fr.wikipedia.org/wiki/Mus%C3%A9e_%C3%A0_ciel_ouvert_de_Valpara%C3%ADso)
