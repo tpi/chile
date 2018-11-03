@@ -23,7 +23,7 @@ author: tpi
 
 * [Presidente Juan Antonio Ríos #59](https://www.google.com/maps/place/Pdte+Juan+Antonio+R%C3%ADos+59,+Santiago,+Regi%C3%B3n+Metropolitana,+Chili/@-33.4443856,-70.6487121,17z/data=!3m1!4b1!4m5!3m4!1s0x9662c5a011771d81:0xda66a22e6096f337!8m2!3d-33.4443856!4d-70.6465234) (esq. calle París), Santiago, Chile
 * Teléfono : (+56) 23220 9800
-* Métro Santa Lucia (L1) (4mn à pieds)
+* Métro Santa Lucia (L1) (4mn à pied)
 
 ## À voir / à faire
 
@@ -128,6 +128,6 @@ author: tpi
 
 ## Liens
 
-### [Valparaiso](http://tse-tse.org/2018/10/valparaiso/index.html)
-
 ### [Parcours](http://tse-tse.org/2018/10/chili-2018/index.html)
+
+### [Valparaiso](http://tse-tse.org/2018/10/valparaiso/index.html)
