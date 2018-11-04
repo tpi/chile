@@ -15,6 +15,7 @@ author: tpi
 * Les bus font tous un arrêt à la station de métro Pajaritos sur la ligne 1. Le Lonely Planet conseille de prendre le métro pour éviter les embouteillages du centre ville. 26mn de métro entre les stations Pajaritos et Pédro de Valdivia.
 * **Minibus** - environ 7000 $Ch soit 9€ (Trans Vip)
 * **Taxi** - environ 20000 $Ch soit 25€
+* Navette aéroport de l'hôtel 45$US
 
 
 ### [Orly Hotel](https://www.orlyhotel.com/en/)
